@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.celvolution.com/cellvolution/Blog</link>
+    <description>Welcome to the ELDE LAB laboratory web log. Your behind the scenes, backstage, all-access pass to news, events, and even other things happening in and around the Elde laboratory. </description>
+    <item>
+      <title>opening day</title>
+      <link>http://www.celvolution.com/cellvolution/Blog/Entries/2011/3/1_opening_day.html</link>
+      <guid isPermaLink="false">8c691abd-0f97-4d92-b5dc-0529e3de7348</guid>
+      <pubDate>Tue, 1 Mar 2011 01:21:37 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.celvolution.com/cellvolution/Blog/Entries/2011/3/1_opening_day.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.celvolution.com/cellvolution/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
