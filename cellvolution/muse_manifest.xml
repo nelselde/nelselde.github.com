@@ -1,0 +1,75 @@
+<manifest alg="2" build="945" opt="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4003109849"/>
+    <file name="master_a-master.css" crc="4011851685" ref="news:pathogen-driven-evolution:index:contact:dustin-hancks:nels-elde:molecular-mimicry:kelsey-rogers:publications:people:melissa-hartley:arms-races:experimental-evolution:research:diane-downhour:matthew-barber"/>
+    <file name="news.css" crc="135633336" ref="news"/>
+    <file name="pathogen-driven-evolution.css" crc="2081572" ref="pathogen-driven-evolution"/>
+    <file name="index.css" crc="4660530" ref="index"/>
+    <file name="contact.css" crc="23048821" ref="contact"/>
+    <file name="dustin-hancks.css" crc="4281176254" ref="dustin-hancks"/>
+    <file name="nels-elde.css" crc="4077796996" ref="nels-elde"/>
+    <file name="molecular-mimicry.css" crc="313018317" ref="molecular-mimicry"/>
+    <file name="kelsey-rogers.css" crc="238154048" ref="kelsey-rogers"/>
+    <file name="publications.css" crc="3762799430" ref="publications"/>
+    <file name="people.css" crc="3780692743" ref="people"/>
+    <file name="melissa-hartley.css" crc="260746746" ref="melissa-hartley"/>
+    <file name="arms-races.css" crc="291692731" ref="arms-races"/>
+    <file name="experimental-evolution.css" crc="517126334" ref="experimental-evolution"/>
+    <file name="research.css" crc="3979378899" ref="research"/>
+    <file name="diane-downhour.css" crc="3809238203" ref="diane-downhour"/>
+    <file name="matthew-barber.css" crc="4215492544" ref="matthew-barber"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="4285342938" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers"/>
+      <file name="museutils.js" crc="289253676" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers"/>
+      <file name="pie.js" crc="3786417276" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers"/>
+      <file name="pie.htc" crc="354638364" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="accordioncut.png" crc="233368342" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers"/>
+    <file name="accordioncut2-u291.png" crc="3815373248" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers"/>
+    <file name="ulogo.png" crc="234862115" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers"/>
+    <file name="video2.jpg" crc="259013783" ref="index:news"/>
+    <file name="pew.png" crc="127756819" ref="index:news"/>
+    <file name="dustin258x63.jpg" crc="64770041" ref="index"/>
+    <file name="kelsey.jpg" crc="16040293" ref="index:people:news:diane-downhour:melissa-hartley:matthew-barber:dustin-hancks:kelsey-rogers"/>
+    <file name="nels.jpg" crc="4118188607" ref="people:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:dustin-hancks:kelsey-rogers"/>
+    <file name="diane.png" crc="4292444233" ref="people:news:diane-downhour:melissa-hartley:matthew-barber:dustin-hancks:kelsey-rogers"/>
+    <file name="matt2.jpg" crc="3813963034" ref="people:diane-downhour:melissa-hartley:matthew-barber:dustin-hancks:kelsey-rogers"/>
+    <file name="melissa2.png" crc="69462464" ref="people:news:diane-downhour:melissa-hartley:matthew-barber:dustin-hancks:kelsey-rogers"/>
+    <file name="dustin2.jpg" crc="4263351748" ref="people:kelsey-rogers"/>
+    <file name="chimphead.png" crc="4269669117" ref="research"/>
+    <file name="brownvirus.png" crc="194224190" ref="research"/>
+    <file name="macaquehead.png" crc="4138811094" ref="research"/>
+    <file name="greenvirus.png" crc="4294349695" ref="research"/>
+    <file name="owlmonkeyhead.png" crc="3898856776" ref="research"/>
+    <file name="yellowvirus.png" crc="486454812" ref="research"/>
+    <file name="journalcover.jpg" crc="402333369" ref="publications"/>
+    <file name="stamp.jpg" crc="4239712297" ref="contact"/>
+    <file name="matt273x70.jpg" crc="271300145" ref="news"/>
+    <file name="landscape.jpg" crc="193422321" ref="nels-elde"/>
+    <file name="diane3.jpg" crc="285472021" ref="diane-downhour"/>
+    <file name="histogram.png" crc="437609387" ref="pathogen-driven-evolution"/>
+    <file name="redqueen.jpg" crc="4018768070" ref="arms-races"/>
+    <file name="mimics.jpg" crc="3776468778" ref="molecular-mimicry"/>
+    <file name="exevo.jpg" crc="4112467584" ref="experimental-evolution"/>
+  </folder>
+  <file name="index.html" crc="424664429" mt="1345684267824"/>
+  <file name="people.html" crc="3928807260" mt="1345683719555"/>
+  <file name="research.html" crc="179680686" mt="1345671060690"/>
+  <file name="publications.html" crc="3974700535" mt="1345671087483"/>
+  <file name="contact.html" crc="4032097176" mt="1345673545852"/>
+  <file name="news.html" crc="378666640" mt="1345684240624"/>
+  <file name="nels-elde.html" crc="18993871" mt="1345683435301"/>
+  <file name="diane-downhour.html" crc="3785455574" mt="1345683483091"/>
+  <file name="melissa-hartley.html" crc="3846611875" mt="1345683775127"/>
+  <file name="matthew-barber.html" crc="3857865789" mt="1345683527191"/>
+  <file name="pathogen-driven-evolution.html" crc="4161558427" mt="1345683862429"/>
+  <file name="arms-races.html" crc="4160272875" mt="1345683924423"/>
+  <file name="molecular-mimicry.html" crc="3999621119" mt="1345683941553"/>
+  <file name="experimental-evolution.html" crc="4159873729" mt="1345684002142"/>
+  <file name="dustin-hancks.html" crc="4133689476" mt="1345683552201"/>
+  <file name="kelsey-rogers.html" crc="4206757271" mt="1345683575078"/>
+</manifest>
