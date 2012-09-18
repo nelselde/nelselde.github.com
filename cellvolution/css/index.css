@@ -17,6 +17,13 @@ html
 	margin-right: auto;
 }
 
+#master-header
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -1px;
+}
+
 #u141
 {
 	z-index: 3;
@@ -62,12 +69,6 @@ html
 	position: relative;
 	margin-right: -1px;
 	margin-top: 42px;
-}
-
-#pu146
-{
-	width: 0.01px;
-	position: relative;
 }
 
 #u146
@@ -273,32 +274,24 @@ html
 	left: 40px;
 }
 
-#master-header,#pu279
+#pu279
 {
 	width: 0.01px;
+	margin-left: 3px;
 	position: relative;
-	margin-right: -1px;
 }
 
 #u279
 {
 	z-index: 63;
 	width: 1px;
-	height: 259px;
+	height: 290px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
-	margin-left: 3px;
 	position: relative;
-}
-
-#u277
-{
-	z-index: 61;
-	width: 51px;
-	margin-top: 6px;
-	position: relative;
+	margin-right: -3px;
 }
 
 #ppu901-7
@@ -307,13 +300,12 @@ html
 	position: relative;
 	margin-right: -1px;
 	margin-top: 16px;
-	left: 58px;
+	left: 408px;
 }
 
-#pu901-7
+#pu146,#pu901-7
 {
 	width: 0.01px;
-	margin-left: 353px;
 	position: relative;
 }
 
@@ -321,7 +313,6 @@ html
 {
 	z-index: 76;
 	width: 237px;
-	min-height: 75px;
 	font-family: quattrocento-sans-n7, quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -341,7 +332,6 @@ html
 #pu897
 {
 	width: 0.01px;
-	margin-left: 353px;
 	margin-top: 16px;
 	position: relative;
 }
@@ -352,11 +342,6 @@ html
 	width: 157px;
 	position: relative;
 	margin-right: -157px;
-}
-
-#u277_img,#u899_img,#u897_img
-{
-	vertical-align: top;
 }
 
 #u903-7
@@ -375,7 +360,7 @@ html
 #pu1044
 {
 	width: 0.01px;
-	margin-left: 354px;
+	margin-left: 1px;
 	margin-top: 27px;
 	position: relative;
 }
@@ -476,18 +461,39 @@ html
 	font-weight: 400;
 }
 
+#pu277
+{
+	width: 0.01px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u277
+{
+	z-index: 61;
+	width: 51px;
+	position: relative;
+	margin-right: -51px;
+}
+
+#u899_img,#u897_img,#u277_img
+{
+	vertical-align: top;
+}
+
 #u275-4
 {
 	z-index: 56;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin-n7, cabin, sans-serif;
 	font-weight: 700;
-	margin-left: 539px;
-	margin-top: 3px;
 	position: relative;
+	margin-right: -286px;
+	margin-top: 12px;
+	left: 597px;
 }
 
 #u276
@@ -499,8 +505,21 @@ html
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
-	top: -2px;
-	margin-bottom: -2px;
+	margin-left: 58px;
+	top: -5px;
+	margin-bottom: -3px;
+	position: relative;
+}
+
+#u1337
+{
+	z-index: 98;
+	width: 200px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 689px;
+	margin-top: 442px;
 	position: relative;
 }
 

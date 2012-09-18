@@ -7,13 +7,13 @@ html
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 535px;
+	min-height: 1264px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 65px;
+	padding-bottom: 121px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -70,12 +70,6 @@ html
 	position: relative;
 	margin-right: -1px;
 	margin-top: 42px;
-}
-
-#pu146
-{
-	width: 0.01px;
-	position: relative;
 }
 
 #u146
@@ -284,9 +278,8 @@ html
 #pu343
 {
 	width: 0.01px;
+	margin-left: 3px;
 	position: relative;
-	margin-right: -1px;
-	margin-top: 95px;
 }
 
 #u343
@@ -298,15 +291,34 @@ html
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
-	margin-left: 3px;
+	position: relative;
+	margin-right: -3px;
+	margin-top: 95px;
+}
+
+#pu1352-4
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -1px;
+	margin-top: 270px;
+	left: 87px;
+}
+
+#u1352-4
+{
+	z-index: 130;
+	width: 61px;
+	min-height: 21px;
+	font-family: quattrocento-sans-n7, quattrocento-sans, sans-serif;
+	font-weight: 700;
 	position: relative;
 }
 
-#u341
+#u1353
 {
-	z-index: 61;
-	width: 51px;
-	margin-top: 5px;
+	z-index: 134;
+	width: 128px;
 	position: relative;
 }
 
@@ -315,13 +327,12 @@ html
 	width: 0.01px;
 	position: relative;
 	margin-right: -1px;
-	left: 58px;
+	left: 295px;
 }
 
-#pu345
+#pu146,#pu345
 {
 	width: 0.01px;
-	margin-left: 240px;
 	position: relative;
 }
 
@@ -348,11 +359,6 @@ html
 	left: 253px;
 }
 
-#u341_img,#u347_img
-{
-	vertical-align: top;
-}
-
 #u352
 {
 	z-index: 129;
@@ -372,7 +378,7 @@ html
 	z-index: 65;
 	width: 530px;
 	min-height: 330px;
-	margin-left: 266px;
+	margin-left: 26px;
 	margin-top: 48px;
 	position: relative;
 }
@@ -389,18 +395,39 @@ html
 	font-weight: 400;
 }
 
+#pu341
+{
+	width: 0.01px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u341
+{
+	z-index: 61;
+	width: 51px;
+	position: relative;
+	margin-right: -51px;
+}
+
+#u1353_img,#u347_img,#u341_img
+{
+	vertical-align: top;
+}
+
 #u339-4
 {
 	z-index: 56;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin-n7, cabin, sans-serif;
 	font-weight: 700;
-	margin-left: 539px;
-	margin-top: 55px;
 	position: relative;
+	margin-right: -286px;
+	margin-top: 16px;
+	left: 597px;
 }
 
 #u340
@@ -412,6 +439,7 @@ html
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
+	margin-left: 58px;
 	top: -2px;
 	margin-bottom: -2px;
 	position: relative;

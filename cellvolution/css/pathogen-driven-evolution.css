@@ -576,7 +576,7 @@ html
 {
 	width: 0.01px;
 	margin-left: 74px;
-	margin-top: 81px;
+	margin-top: 82px;
 	position: relative;
 }
 
@@ -590,7 +590,7 @@ html
 	background-color: #FFFFFF;
 	position: relative;
 	margin-right: -162px;
-	margin-top: 23px;
+	margin-top: 22px;
 }
 
 #u411-7
@@ -627,7 +627,7 @@ html
 	width: 311px;
 	position: relative;
 	margin-right: -311px;
-	margin-top: 24px;
+	margin-top: 23px;
 	left: 63px;
 }
 
@@ -647,6 +647,7 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -217px;
+	margin-top: 14px;
 	left: 138px;
 }
 
@@ -661,7 +662,7 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -37px;
-	margin-top: 40px;
+	margin-top: 39px;
 	left: 24px;
 }
 
@@ -676,7 +677,7 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -37px;
-	margin-top: 69px;
+	margin-top: 68px;
 	left: 24px;
 }
 
@@ -691,7 +692,7 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -37px;
-	margin-top: 100px;
+	margin-top: 99px;
 	left: 27px;
 }
 
@@ -706,7 +707,7 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -37px;
-	margin-top: 126px;
+	margin-top: 125px;
 	left: 27px;
 }
 
@@ -721,7 +722,7 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -37px;
-	margin-top: 155px;
+	margin-top: 154px;
 	left: 31px;
 }
 
@@ -736,7 +737,7 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -37px;
-	margin-top: 183px;
+	margin-top: 182px;
 	left: 43px;
 }
 
@@ -747,7 +748,7 @@ html
 	min-height: 18px;
 	position: relative;
 	margin-right: -108px;
-	margin-top: 130px;
+	margin-top: 129px;
 	left: 258px;
 }
 
@@ -790,7 +791,6 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -59px;
-	margin-top: 1px;
 }
 
 #pu460-4
@@ -852,15 +852,15 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -25px;
-	left: 221px;
+	left: 214px;
 }
 
 #pu465-4
 {
 	width: 0.01px;
 	margin-left: 62px;
-	top: -3px;
-	margin-bottom: -3px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
 }
 
@@ -887,8 +887,8 @@ html
 	font-weight: 700;
 	position: relative;
 	margin-right: -41px;
-	margin-top: 3px;
-	left: 143px;
+	margin-top: 11px;
+	left: 138px;
 }
 
 #u464-4
@@ -901,7 +901,7 @@ html
 	font-weight: 400;
 	position: relative;
 	margin-right: -60px;
-	left: 224px;
+	left: 221px;
 }
 
 #u440-4
@@ -921,8 +921,8 @@ html
 	z-index: 166;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin-n7, cabin, sans-serif;
 	font-weight: 700;
 	margin-left: 539px;

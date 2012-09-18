@@ -278,7 +278,7 @@ html
 {
 	z-index: 63;
 	width: 1px;
-	height: 585px;
+	height: 733px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -291,17 +291,8 @@ html
 {
 	z-index: 61;
 	width: 51px;
-	margin-top: 7px;
+	margin-top: 9px;
 	position: relative;
-}
-
-#pppu928
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -1px;
-	margin-top: 80px;
-	left: 51px;
 }
 
 #pu928
@@ -309,7 +300,8 @@ html
 	width: 0.01px;
 	position: relative;
 	margin-right: -1px;
-	margin-top: 25px;
+	margin-top: 105px;
+	left: 51px;
 }
 
 #u928
@@ -322,6 +314,42 @@ html
 	border-color: #000000;
 	background-color: #000000;
 	margin-left: 180px;
+	position: relative;
+}
+
+#pu1058-7
+{
+	width: 0.01px;
+	margin-left: 310px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#u1058-7
+{
+	z-index: 108;
+	width: 237px;
+	min-height: 75px;
+	font-family: quattrocento-sans-n7, quattrocento-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -237px;
+	margin-top: 2px;
+}
+
+#u1056
+{
+	z-index: 106;
+	width: 159px;
+	position: relative;
+	margin-right: -159px;
+	left: 245px;
+}
+
+#pu1110-4
+{
+	width: 0.01px;
+	margin-top: 40px;
 	position: relative;
 }
 
@@ -339,37 +367,9 @@ html
 	color: #7F7F7F;
 	font-family: cabin-n5, cabin, sans-serif;
 	font-weight: 500;
-	margin-top: 57px;
 	position: relative;
-}
-
-#ppu1058-7
-{
-	width: 0.01px;
-	position: relative;
-	margin-right: -1px;
-	left: 310px;
-}
-
-#u1058-7
-{
-	z-index: 108;
-	width: 237px;
-	min-height: 75px;
-	font-family: quattrocento-sans-n7, quattrocento-sans, sans-serif;
-	font-weight: 700;
-	position: relative;
-	margin-right: -237px;
-	margin-top: 10px;
-}
-
-#u1056
-{
-	z-index: 106;
-	width: 159px;
-	position: relative;
-	margin-right: -159px;
-	left: 245px;
+	margin-right: -299px;
+	margin-top: 22px;
 }
 
 #u1054
@@ -378,6 +378,16 @@ html
 	width: 157px;
 	position: relative;
 	margin-right: -157px;
+	margin-top: 3px;
+	left: 310px;
+}
+
+#pu1060-7
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -1px;
+	left: 481px;
 }
 
 #u1060-7
@@ -388,16 +398,23 @@ html
 	font-family: quattrocento-sans-n7, quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
-	margin-right: -301px;
-	margin-top: 9px;
-	left: 171px;
+}
+
+#u1327-6
+{
+	z-index: 146;
+	width: 300px;
+	font-family: quattrocento-sans-n7, quattrocento-sans, sans-serif;
+	font-weight: 700;
+	top: -3px;
+	margin-bottom: -3px;
+	position: relative;
 }
 
 #pu1046
 {
 	width: 0.01px;
 	margin-left: 311px;
-	margin-top: 23px;
 	position: relative;
 }
 
@@ -493,7 +510,7 @@ html
 	left: 117px;
 }
 
-#pu1100
+#pu1358
 {
 	width: 0.01px;
 	margin-left: 311px;
@@ -501,7 +518,7 @@ html
 	position: relative;
 }
 
-#u1100
+#u1358
 {
 	z-index: 130;
 	width: 48px;
@@ -509,27 +526,13 @@ html
 	margin-right: -48px;
 }
 
-#u861
+#u1096
 {
 	z-index: 131;
 	width: 46px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	padding-bottom: 1px;
-	position: relative;
-	margin-right: -48px;
-}
-
-#u1096
-{
-	z-index: 132;
-	width: 46px;
 	position: relative;
 	margin-right: -46px;
-	margin-top: -1px;
-	left: -1px;
+	left: 1px;
 }
 
 #u1096_clip
@@ -546,6 +549,19 @@ html
 	margin-bottom: -14px;
 }
 
+#u861
+{
+	z-index: 133;
+	width: 46px;
+	height: 55px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	margin-right: -48px;
+}
+
 #u929-6
 {
 	z-index: 65;
@@ -558,10 +574,10 @@ html
 	left: 63px;
 }
 
-#pu1054,#pu1109-4
+#pu1109-4
 {
 	width: 0.01px;
-	margin-top: 16px;
+	margin-top: 63px;
 	position: relative;
 }
 
@@ -588,11 +604,11 @@ html
 	width: 0.01px;
 	position: relative;
 	margin-right: -1px;
-	margin-top: 16px;
+	margin-top: 5px;
 	left: 312px;
 }
 
-#pu146,#ppu928,#pu1058-7,#pu930-7
+#pu146,#pu930-7
 {
 	width: 0.01px;
 	position: relative;
@@ -740,7 +756,7 @@ html
 {
 	width: 0.01px;
 	margin-left: 7px;
-	margin-top: 43px;
+	margin-top: 76px;
 	position: relative;
 }
 
@@ -749,8 +765,8 @@ html
 	z-index: 56;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin-n7, cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

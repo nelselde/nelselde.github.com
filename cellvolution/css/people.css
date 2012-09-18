@@ -473,16 +473,16 @@ html
 	position: relative;
 }
 
-#pu1068
+#pu1351
 {
 	width: 0.01px;
 	position: relative;
 	margin-right: -1px;
-	margin-top: 58px;
+	margin-top: 59px;
 	left: 519px;
 }
 
-#u1068
+#u1351
 {
 	z-index: 65;
 	width: 101px;
@@ -522,7 +522,6 @@ html
 	background-color: transparent;
 	position: relative;
 	margin-right: -101px;
-	margin-top: 1px;
 }
 
 #u266-9
@@ -693,8 +692,8 @@ html
 	z-index: 113;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin-n7, cabin, sans-serif;
 	font-weight: 700;
 	margin-left: 539px;
