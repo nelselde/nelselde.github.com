@@ -14,22 +14,34 @@
 	position: relative;
 }
 
-#u141_img,#u291_img
-{
-	vertical-align: top;
-}
-
 #u138-4
 {
-	text-align: center;
-	font-size: 80px;
 	color: #000000;
-	font-family: cabin-n5, cabin, sans-serif;
+	font-size: 80px;
+	text-align: center;
+	font-family: cabin, sans-serif;
 	font-weight: 500;
 	position: relative;
 }
 
-#u146,#u147,#u148,#u150,#u151,#u152,#u159,#u160,#u161,#u162,#u163,#u165,#u164
+#u139-4
+{
+	color: #7F7F7F;
+	font-size: 20px;
+	font-family: cabin, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u140-6
+{
+	font-size: 24px;
+	font-family: quattrocento-sans, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u146,#u147,#u148,#u150,#u151,#u152,#u159,#u160,#u161,#u162,#u163,#u164,#u165
 {
 	border-width: 1px;
 	border-style: solid;
@@ -41,24 +53,7 @@
 #u153-4,#u155-4,#u156-4,#u167-4,#u168-4
 {
 	font-size: 24px;
-	font-family: cabin-n7, cabin, sans-serif;
-	font-weight: 700;
-	position: relative;
-}
-
-#u139-4
-{
-	font-size: 20px;
-	color: #7F7F7F;
-	font-family: cabin-n7, cabin, sans-serif;
-	font-weight: 700;
-	position: relative;
-}
-
-#u140-6
-{
-	font-size: 24px;
-	font-family: quattrocento-sans-n7, quattrocento-sans, sans-serif;
+	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
 }

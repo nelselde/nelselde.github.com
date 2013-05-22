@@ -113,14 +113,11 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 	letter-spacing: 0px;
 	line-height: 1.2;
-	margin-left: 0px;
-	margin-right: 0px;
-	padding-bottom: 0px;
-	padding-top: 0px;
 	text-align: left;
 	text-decoration: none;
 	text-indent: 0px;
 	vertical-align: 0px;
+	padding: 0px;
 }
 
 .TabbedPanelsTab
@@ -337,18 +334,33 @@ textarea
 	height: 18px;
 }
 
-.MenuBar .SubMenuVisible, .MenuBarVertical .SubMenuVisible, .MenuBar .SubMenu .SubMenuVisible,.popup_element.Active,span.actAsPara,.actAsDiv,a.nonblock.nontext
+.MenuBar .SubMenuVisible, .MenuBarVertical .SubMenuVisible, .MenuBar .SubMenu .SubMenuVisible,.popup_element.Active,span.actAsPara,.actAsDiv,a.nonblock.nontext,img.block
 {
 	display: block;
-}
-
-.popup_element.Inactive,.js .disn
-{
-	display: none;
 }
 
 .widget_invisible,.js .invi /* used to hide the widget before loaded */
 {
 	visibility: hidden;
+}
+
+.no_vert_scroll
+{
+	overflow-y: hidden;
+}
+
+.always_vert_scroll
+{
+	overflow-y: scroll;
+}
+
+.always_horz_scroll
+{
+	overflow-x: scroll;
+}
+
+.popup_element.Inactive,.js .disn,.hidden
+{
+	display: none;
 }
 
