@@ -25,6 +25,11 @@ html
 	left: 380px;
 }
 
+#u141_img
+{
+	padding-right: 1px;
+}
+
 #u291
 {
 	z-index: 4;
@@ -270,6 +275,11 @@ html
 	margin-right: -10000px;
 	margin-top: 140px;
 	left: 351px;
+}
+
+#u579_img
+{
+	padding-bottom: 1px;
 }
 
 #u581

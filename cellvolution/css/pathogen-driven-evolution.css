@@ -25,6 +25,11 @@ html
 	left: 380px;
 }
 
+#u141_img
+{
+	padding-right: 1px;
+}
+
 #u291
 {
 	z-index: 4;
@@ -524,8 +529,8 @@ html
 	z-index: 94;
 	width: 217px;
 	min-height: 35px;
-	font-size: 18px;
 	text-align: left;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -539,8 +544,8 @@ html
 	z-index: 98;
 	width: 37px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -554,8 +559,8 @@ html
 	z-index: 102;
 	width: 37px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -569,8 +574,8 @@ html
 	z-index: 106;
 	width: 37px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -584,8 +589,8 @@ html
 	z-index: 110;
 	width: 37px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -599,8 +604,8 @@ html
 	z-index: 114;
 	width: 37px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -614,8 +619,8 @@ html
 	z-index: 118;
 	width: 37px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -661,8 +666,8 @@ html
 	z-index: 129;
 	width: 59px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -676,8 +681,8 @@ html
 	z-index: 135;
 	width: 41px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -691,8 +696,8 @@ html
 	z-index: 139;
 	width: 25px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -706,8 +711,8 @@ html
 	z-index: 143;
 	width: 25px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -721,8 +726,8 @@ html
 	z-index: 147;
 	width: 25px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -736,8 +741,8 @@ html
 	z-index: 151;
 	width: 25px;
 	min-height: 18px;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;

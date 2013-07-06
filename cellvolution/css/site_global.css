@@ -339,7 +339,7 @@ textarea
 	display: block;
 }
 
-.widget_invisible,.js .invi /* used to hide the widget before loaded */
+.widget_invisible,.js .invi,.js .se_invi /* used to hide the widget before loaded */
 {
 	visibility: hidden;
 }
