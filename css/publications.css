@@ -1,7 +1,7 @@
 .version.publications /* version checker */
 {
-	color: #000019;
-	background-color: #7B3BAB;
+	color: #000001;
+	background-color: #20F415;
 }
 
 .html
@@ -299,6 +299,7 @@
 	z-index: 62;
 	width: 530px;
 	min-height: 886px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 384px;
@@ -321,6 +322,7 @@
 {
 	z-index: 134;
 	width: 134px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 159px;
@@ -352,6 +354,7 @@
 	z-index: 137;
 	width: 61px;
 	min-height: 21px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -364,6 +367,7 @@
 {
 	z-index: 141;
 	width: 128px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 450px;
@@ -386,6 +390,7 @@
 {
 	z-index: 58;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -395,8 +400,9 @@
 	z-index: 53;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

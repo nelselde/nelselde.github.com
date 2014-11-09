@@ -1,7 +1,7 @@
 .version.people /* version checker */
 {
-	color: #000003;
-	background-color: #90CD07;
+	color: #000015;
+	background-color: #1C619C;
 }
 
 .html
@@ -263,6 +263,7 @@
 {
 	z-index: 53;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 545px;
@@ -295,6 +296,9 @@
 {
 	z-index: 56;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 752px;
@@ -305,6 +309,7 @@
 {
 	z-index: 57;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -326,6 +331,7 @@
 {
 	z-index: 60;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 311px;
@@ -351,6 +357,7 @@
 {
 	z-index: 63;
 	width: 100px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 846px;
@@ -376,6 +383,9 @@
 {
 	z-index: 66;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 545px;
@@ -386,6 +396,7 @@
 {
 	z-index: 67;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -407,6 +418,9 @@
 {
 	z-index: 70;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 310px;
@@ -417,6 +431,7 @@
 {
 	z-index: 71;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -439,6 +454,9 @@
 {
 	z-index: 74;
 	width: 99px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 139px;
@@ -449,6 +467,7 @@
 {
 	z-index: 75;
 	width: 98px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -476,6 +495,7 @@
 	z-index: 78;
 	width: 149px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 195px;
@@ -487,6 +507,7 @@
 	z-index: 85;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 881px;
@@ -498,6 +519,7 @@
 	z-index: 94;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 440px;
@@ -509,6 +531,7 @@
 	z-index: 101;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 976px;
@@ -520,8 +543,9 @@
 	z-index: 110;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -549,6 +573,7 @@
 {
 	z-index: 115;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1078px;
@@ -560,6 +585,7 @@
 	z-index: 117;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 440px;
@@ -571,6 +597,7 @@
 	z-index: 124;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 675px;
@@ -612,6 +639,7 @@
 	z-index: 133;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 675px;
@@ -623,6 +651,7 @@
 	z-index: 140;
 	width: 87px;
 	min-height: 23px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -635,6 +664,7 @@
 {
 	z-index: 144;
 	width: 159px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 599px;
@@ -646,6 +676,7 @@
 	z-index: 146;
 	width: 159px;
 	min-height: 23px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -659,6 +690,7 @@
 	z-index: 150;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 441px;
@@ -669,6 +701,9 @@
 {
 	z-index: 157;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 309px;
@@ -679,6 +714,7 @@
 {
 	z-index: 158;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -707,6 +743,7 @@
 	z-index: 161;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 675px;
@@ -718,6 +755,7 @@
 	z-index: 168;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 885px;
@@ -728,6 +766,9 @@
 {
 	z-index: 175;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 750px;
@@ -738,6 +779,7 @@
 {
 	z-index: 176;
 	width: 103px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -764,6 +806,9 @@
 {
 	z-index: 179;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 544px;
@@ -774,6 +819,7 @@
 {
 	z-index: 180;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -795,6 +841,9 @@
 {
 	z-index: 182;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -817,6 +866,7 @@
 {
 	z-index: 184;
 	width: 157px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 411px;
@@ -828,6 +878,7 @@
 	z-index: 186;
 	width: 159px;
 	min-height: 23px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 537px;

@@ -1,7 +1,7 @@
 .version.melissa_hartley /* version checker */
 {
-	color: #0000E9;
-	background-color: #E58633;
+	color: #000004;
+	background-color: #B88EE3;
 }
 
 .html
@@ -278,6 +278,7 @@
 	z-index: 54;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 270px;
@@ -289,8 +290,9 @@
 	z-index: 63;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -318,6 +320,7 @@
 {
 	z-index: 68;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 628px;
@@ -329,6 +332,7 @@
 	z-index: 70;
 	width: 473px;
 	min-height: 262px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 361px;
@@ -351,6 +355,7 @@
 {
 	z-index: 85;
 	width: 100px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 140px;

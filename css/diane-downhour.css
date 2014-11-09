@@ -1,7 +1,7 @@
 .version.diane_downhour /* version checker */
 {
-	color: #000009;
-	background-color: #0AB778;
+	color: #0000ED;
+	background-color: #6763D0;
 }
 
 .html
@@ -278,6 +278,7 @@
 {
 	z-index: 54;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 145px;
@@ -304,6 +305,7 @@
 	z-index: 57;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 273px;
@@ -321,6 +323,7 @@
 	z-index: 66;
 	width: 574px;
 	min-height: 386px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -341,8 +344,9 @@
 	z-index: 81;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -370,6 +374,7 @@
 {
 	z-index: 86;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1051px;
@@ -380,6 +385,7 @@
 {
 	z-index: 88;
 	width: 568px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 805px;

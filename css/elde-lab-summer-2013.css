@@ -1,7 +1,7 @@
 .version.elde_lab_summer_2013 /* version checker */
 {
-	color: #0000F6;
-	background-color: #62C14E;
+	color: #0000EE;
+	background-color: #4F1A03;
 }
 
 .html
@@ -262,6 +262,7 @@
 {
 	z-index: 53;
 	width: 578px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 180px;
@@ -288,6 +289,7 @@
 	z-index: 56;
 	width: 230px;
 	min-height: 23px;
+	background-color: transparent;
 	font-size: 18px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
@@ -302,6 +304,7 @@
 	z-index: 60;
 	width: 578px;
 	min-height: 67px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -321,8 +324,9 @@
 	z-index: 71;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -350,6 +354,7 @@
 {
 	z-index: 76;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 694px;

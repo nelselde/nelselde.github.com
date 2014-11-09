@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #518792;
+	color: #0000E8;
+	background-color: #48F08D;
 }
 
 .html
@@ -264,8 +264,9 @@
 	z-index: 53;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -293,6 +294,7 @@
 {
 	z-index: 58;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 601px;
@@ -442,9 +444,13 @@
 #u1927
 {
 	position: absolute;
-	width: 270px;
+	width: 277px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 12px;
 	top: 168px;
-	left: 38px;
+	left: 35px;
 }
 
 #u1927popup
@@ -461,6 +467,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 3px;
 }
 
 #u1930_img
@@ -478,7 +485,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 70px;
+	left: 73px;
 }
 
 #u1973_img
@@ -496,7 +503,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 140px;
+	left: 143px;
 }
 
 #u1930_clip,#u1973_clip,#u1987_clip
@@ -521,7 +528,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 210px;
+	left: 213px;
 }
 
 #u1930.SSSlideLinkSelected,#u1973.SSSlideLinkSelected,#u1987.SSSlideLinkSelected,#u2002.SSSlideLinkSelected
@@ -535,6 +542,7 @@
 {
 	position: absolute;
 	width: 211px;
+	background-color: transparent;
 	top: 44px;
 	left: 309px;
 }
@@ -650,9 +658,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
+	text-align: center;
 	color: #999999;
 	line-height: 1.4;
-	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 169px;
 	left: 314px;
@@ -671,6 +679,37 @@
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u2320
+{
+	z-index: 123;
+	width: 131px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 412px;
+	left: 133px;
+}
+
+#u2314
+{
+	z-index: 124;
+	width: 100px;
+	background-color: transparent;
+	margin-left: 10px;
+	position: relative;
+}
+
+#u2317
+{
+	z-index: 126;
+	width: 131px;
+	background-color: transparent;
+	margin-top: 7px;
+	position: relative;
 }
 
 body

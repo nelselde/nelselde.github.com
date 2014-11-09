@@ -1,7 +1,7 @@
 .version.arms_races /* version checker */
 {
-	color: #00001F;
-	background-color: #C30DE4;
+	color: #00001B;
+	background-color: #AE138B;
 }
 
 .html
@@ -428,6 +428,7 @@
 	z-index: 64;
 	width: 298px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -442,6 +443,7 @@
 	z-index: 68;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -456,6 +458,7 @@
 	z-index: 72;
 	width: 225px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -470,6 +473,7 @@
 	z-index: 76;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -498,6 +502,7 @@
 {
 	z-index: 81;
 	width: 253px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 401px;
@@ -524,6 +529,7 @@
 	z-index: 90;
 	width: 257px;
 	min-height: 41px;
+	background-color: transparent;
 	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -538,6 +544,7 @@
 	z-index: 84;
 	width: 295px;
 	min-height: 233px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -557,6 +564,7 @@
 	z-index: 94;
 	width: 214px;
 	min-height: 41px;
+	background-color: transparent;
 	text-align: right;
 	position: relative;
 	margin-right: -10000px;
@@ -582,8 +590,9 @@
 	z-index: 100;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -611,6 +620,7 @@
 {
 	z-index: 105;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 708px;

@@ -1,7 +1,7 @@
 .version.research /* version checker */
 {
-	color: #00001F;
-	background-color: #E2C9E6;
+	color: #000011;
+	background-color: #0B0AE3;
 }
 
 .html
@@ -263,8 +263,9 @@
 	z-index: 53;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -292,6 +293,7 @@
 {
 	z-index: 58;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 524px;
@@ -468,6 +470,7 @@
 	z-index: 71;
 	width: 298px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -482,6 +485,7 @@
 	z-index: 75;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -496,6 +500,7 @@
 	z-index: 79;
 	width: 225px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -510,6 +515,7 @@
 	z-index: 83;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -524,6 +530,7 @@
 	z-index: 87;
 	width: 523px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 389px;
@@ -540,6 +547,7 @@
 {
 	z-index: 94;
 	width: 57px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 466px;
@@ -550,6 +558,7 @@
 {
 	z-index: 96;
 	width: 54px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 466px;
@@ -560,6 +569,7 @@
 {
 	z-index: 98;
 	width: 59px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 466px;
@@ -570,6 +580,7 @@
 {
 	z-index: 100;
 	width: 55px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 466px;
@@ -580,6 +591,7 @@
 {
 	z-index: 102;
 	width: 55px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 466px;
@@ -590,6 +602,7 @@
 {
 	z-index: 104;
 	width: 54px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 466px;

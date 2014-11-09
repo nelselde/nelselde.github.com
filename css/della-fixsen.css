@@ -1,7 +1,7 @@
 .version.della_fixsen /* version checker */
 {
-	color: #0000FD;
-	background-color: #396F0B;
+	color: #000013;
+	background-color: #BBA2F0;
 }
 
 .html
@@ -263,8 +263,9 @@
 	z-index: 53;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -293,6 +294,7 @@
 	z-index: 58;
 	width: 455px;
 	min-height: 262px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 346px;
@@ -309,6 +311,7 @@
 {
 	z-index: 73;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 682px;
@@ -320,6 +323,7 @@
 	z-index: 75;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 274px;
@@ -351,6 +355,7 @@
 {
 	z-index: 83;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;

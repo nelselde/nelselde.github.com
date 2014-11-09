@@ -1,7 +1,7 @@
 .version.nels_elde /* version checker */
 {
-	color: #000000;
-	background-color: #F15BAA;
+	color: #0000F7;
+	background-color: #9A14FC;
 }
 
 .html
@@ -277,6 +277,7 @@
 {
 	z-index: 54;
 	width: 98px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 140px;
@@ -308,6 +309,7 @@
 	z-index: 57;
 	width: 149px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 196px;
@@ -325,8 +327,9 @@
 	z-index: 64;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -354,6 +357,7 @@
 {
 	z-index: 69;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 870px;
@@ -380,6 +384,7 @@
 	z-index: 72;
 	width: 462px;
 	min-height: 386px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -399,6 +404,7 @@
 {
 	z-index: 90;
 	width: 572px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 716px;

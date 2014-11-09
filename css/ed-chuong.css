@@ -1,7 +1,7 @@
 .version.ed_chuong /* version checker */
 {
-	color: #00000B;
-	background-color: #325877;
+	color: #0000E2;
+	background-color: #5FDB87;
 }
 
 .html
@@ -263,6 +263,7 @@
 	z-index: 53;
 	width: 455px;
 	min-height: 262px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 346px;
@@ -280,6 +281,7 @@
 	z-index: 62;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 274px;
@@ -312,8 +314,9 @@
 	z-index: 70;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -341,6 +344,7 @@
 {
 	z-index: 75;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 666px;
@@ -366,6 +370,9 @@
 {
 	z-index: 78;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;
@@ -376,6 +383,7 @@
 {
 	z-index: 79;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }

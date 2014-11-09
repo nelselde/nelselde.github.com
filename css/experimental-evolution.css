@@ -1,7 +1,7 @@
 .version.experimental_evolution /* version checker */
 {
-	color: #000000;
-	background-color: #1729B0;
+	color: #0000E5;
+	background-color: #CCDA13;
 }
 
 .html
@@ -413,6 +413,7 @@
 	z-index: 63;
 	width: 298px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -427,6 +428,7 @@
 	z-index: 67;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -441,6 +443,7 @@
 	z-index: 71;
 	width: 225px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -455,6 +458,7 @@
 	z-index: 75;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -484,8 +488,9 @@
 	z-index: 80;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -513,6 +518,7 @@
 {
 	z-index: 85;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 748px;
@@ -554,6 +560,7 @@
 	z-index: 89;
 	width: 267px;
 	min-height: 178px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -567,6 +574,7 @@
 	z-index: 93;
 	width: 435px;
 	min-height: 35px;
+	background-color: transparent;
 	font-size: 18px;
 	text-align: center;
 	font-family: cabin, sans-serif;
@@ -581,6 +589,7 @@
 {
 	z-index: 97;
 	width: 419px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 439px;

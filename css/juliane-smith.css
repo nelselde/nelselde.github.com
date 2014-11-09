@@ -1,7 +1,7 @@
 .version.juliane_smith /* version checker */
 {
-	color: #000019;
-	background-color: #AD21E7;
+	color: #0000EC;
+	background-color: #84C136;
 }
 
 .html
@@ -264,6 +264,7 @@
 	z-index: 53;
 	width: 455px;
 	min-height: 262px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 362px;
@@ -281,6 +282,7 @@
 	z-index: 65;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 273px;
@@ -327,6 +329,9 @@
 {
 	z-index: 74;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 140px;
@@ -337,6 +342,7 @@
 {
 	z-index: 75;
 	width: 103px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -365,8 +371,9 @@
 	z-index: 78;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -394,6 +401,7 @@
 {
 	z-index: 83;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1075px;
@@ -404,6 +412,7 @@
 {
 	z-index: 85;
 	width: 539px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 715px;

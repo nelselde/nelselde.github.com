@@ -1,7 +1,7 @@
 .version.clay_carey /* version checker */
 {
-	color: #00001B;
-	background-color: #5BD63D;
+	color: #0000EF;
+	background-color: #CA066E;
 }
 
 .html
@@ -259,6 +259,7 @@
 	z-index: 53;
 	width: 455px;
 	min-height: 262px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 345px;
@@ -276,6 +277,7 @@
 	z-index: 64;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 273px;
@@ -307,6 +309,7 @@
 {
 	z-index: 72;
 	width: 567px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 664px;
@@ -322,6 +325,7 @@
 {
 	z-index: 74;
 	width: 200px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -350,8 +354,9 @@
 	z-index: 80;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -379,6 +384,7 @@
 {
 	z-index: 85;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1075px;
@@ -389,6 +395,9 @@
 {
 	z-index: 87;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 142px;
@@ -399,6 +408,7 @@
 {
 	z-index: 88;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -420,6 +430,9 @@
 {
 	z-index: 90;
 	width: 103px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;

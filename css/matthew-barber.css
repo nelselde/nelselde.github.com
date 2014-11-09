@@ -1,7 +1,7 @@
 .version.matthew_barber /* version checker */
 {
-	color: #000017;
-	background-color: #EF80F4;
+	color: #0000E2;
+	background-color: #426CA1;
 }
 
 .html
@@ -278,6 +278,7 @@
 	z-index: 54;
 	width: 106px;
 	min-height: 28px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 269px;
@@ -289,8 +290,9 @@
 	z-index: 61;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -318,6 +320,7 @@
 {
 	z-index: 66;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 625px;
@@ -344,6 +347,7 @@
 	z-index: 69;
 	width: 458px;
 	min-height: 262px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 352px;
@@ -366,6 +370,7 @@
 {
 	z-index: 85;
 	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 141px;

@@ -1,7 +1,7 @@
 .version.molecular_mimicry /* version checker */
 {
-	color: #0000ED;
-	background-color: #761ECF;
+	color: #000016;
+	background-color: #B1A364;
 }
 
 .html
@@ -278,6 +278,7 @@
 	z-index: 54;
 	width: 698px;
 	min-height: 91px;
+	background-color: transparent;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -441,6 +442,7 @@
 	z-index: 68;
 	width: 298px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -455,6 +457,7 @@
 	z-index: 72;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -469,6 +472,7 @@
 	z-index: 76;
 	width: 225px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -483,6 +487,7 @@
 	z-index: 80;
 	width: 270px;
 	min-height: 31px;
+	background-color: transparent;
 	font-size: 24px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
@@ -512,8 +517,9 @@
 	z-index: 85;
 	width: 286px;
 	min-height: 31px;
-	color: #7F7F7F;
+	background-color: transparent;
 	font-size: 18px;
+	color: #7F7F7F;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -541,6 +547,7 @@
 {
 	z-index: 90;
 	width: 51px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 747px;
@@ -566,6 +573,7 @@
 {
 	z-index: 93;
 	width: 325px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 522px;
@@ -576,6 +584,7 @@
 {
 	z-index: 95;
 	width: 398px;
+	background-color: transparent;
 	font-size: 18px;
 	text-align: center;
 	font-family: cabin, sans-serif;

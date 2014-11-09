@@ -1,0 +1,145 @@
+.version.hopefulmonsters /* version checker */
+{
+	color: #0000FB;
+	background-color: #5C4BE7;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 861px;
+	min-height: 543px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 65px 53px 62px 46px;
+}
+
+#ppu2226-4
+{
+	width: 0.01px;
+}
+
+#pu2226-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 12px;
+}
+
+#u2226-4
+{
+	z-index: 17;
+	width: 202px;
+	min-height: 34px;
+	background-color: transparent;
+	font-size: 42px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 14px;
+	position: relative;
+}
+
+#u2237-4
+{
+	z-index: 23;
+	width: 202px;
+	min-height: 34px;
+	background-color: transparent;
+	font-size: 42px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 221px;
+	position: relative;
+}
+
+#u2169
+{
+	z-index: 2;
+	width: 364px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 233px;
+}
+
+#pu2238-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	margin-left: 645px;
+}
+
+#u2238-4
+{
+	z-index: 27;
+	width: 202px;
+	min-height: 34px;
+	background-color: transparent;
+	font-size: 42px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 14px;
+	position: relative;
+}
+
+#u2230
+{
+	z-index: 21;
+	width: 211px;
+	background-color: transparent;
+	margin-top: 217px;
+	position: relative;
+}
+
+#u2181-11
+{
+	z-index: 6;
+	width: 621px;
+	min-height: 90px;
+	background-color: transparent;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 118px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u2181-2
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#u2181-4,#u2181-6,#u2181-7,#u2181-9
+{
+	font-size: 16px;
+}
+
+#u2175
+{
+	z-index: 4;
+	width: 518px;
+	background-color: transparent;
+	margin-left: 158px;
+	margin-top: 26px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 962px;
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
