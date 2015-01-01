@@ -1,7 +1,7 @@
 .version.program /* version checker */
 {
-	color: #0000F9;
-	background-color: #6C2D00;
+	color: #000008;
+	background-color: #F2A84A;
 }
 
 .html
@@ -24,15 +24,15 @@
 	margin-right: auto;
 }
 
-#u2265
+#u2374
 {
 	z-index: 2;
-	width: 756px;
+	width: 760px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 47px;
-	left: 31px;
+	margin-top: 51px;
+	left: 35px;
 }
 
 #u2275

@@ -1,7 +1,7 @@
 .version.melissa_hartley /* version checker */
 {
-	color: #000004;
-	background-color: #B88EE3;
+	color: #0000FE;
+	background-color: #356067;
 }
 
 .html
@@ -273,10 +273,10 @@
 	left: 285px;
 }
 
-#u666-9
+#u666-12
 {
 	z-index: 54;
-	width: 106px;
+	width: 204px;
 	min-height: 28px;
 	background-color: transparent;
 	position: relative;
@@ -287,7 +287,7 @@
 
 #u716-4
 {
-	z-index: 63;
+	z-index: 66;
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
@@ -297,13 +297,13 @@
 	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 639px;
+	margin-top: 670px;
 	left: 636px;
 }
 
 #u717
 {
-	z-index: 67;
+	z-index: 70;
 	width: 837px;
 	height: 1px;
 	border-width: 1px;
@@ -312,30 +312,30 @@
 	background-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 668px;
+	margin-top: 699px;
 	left: 97px;
 }
 
 #u718
 {
-	z-index: 68;
+	z-index: 71;
 	width: 51px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 628px;
+	margin-top: 655px;
 	left: 39px;
 }
 
 #u721-15
 {
-	z-index: 70;
+	z-index: 73;
 	width: 473px;
 	min-height: 262px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 361px;
+	margin-top: 389px;
 	left: 347px;
 }
 
@@ -345,7 +345,7 @@
 	font-weight: 400;
 }
 
-#u666,#u666-4,#u666-6,#u721-12,#u721-13
+#u666,#u666-4,#u666-7,#u666-9,#u721-12,#u721-13
 {
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
@@ -353,7 +353,7 @@
 
 #u1003
 {
-	z-index: 85;
+	z-index: 88;
 	width: 100px;
 	background-color: transparent;
 	position: relative;
@@ -364,7 +364,7 @@
 
 #u1008
 {
-	z-index: 87;
+	z-index: 90;
 	width: 99px;
 	height: 121px;
 	border-width: 1px;
@@ -379,9 +379,9 @@
 
 #u1641
 {
-	z-index: 88;
+	z-index: 91;
 	width: 1px;
-	height: 361px;
+	height: 390px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;

@@ -13,12 +13,7 @@
 	font-family: cabin-n7, sans-serif;
 }
 
-#u1751-2,#u1751-3,#u1751-5
-{
-	font-family: quattrocento-sans-n4, sans-serif;
-}
-
-#u1751-6,#u1751-7,#u1752,#u1752-4
+#u1751-6,#u1751-7,#u1752,#u1752-4,#u1752-6
 {
 	font-family: quattrocento-sans-n7, sans-serif;
 }
@@ -26,5 +21,10 @@
 #u1755-4
 {
 	font-family: cabin-n7, sans-serif;
+}
+
+#u1751-2,#u1751-3,#u1751-5,#u2797-5
+{
+	font-family: quattrocento-sans-n4, sans-serif;
 }
 

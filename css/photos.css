@@ -1,0 +1,375 @@
+.version.photos /* version checker */
+{
+	color: #000012;
+	background-color: #F2C719;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 751px;
+	min-height: 522.5371940559439px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 82px 32px 62.46280594405607px 177px;
+}
+
+#u2386-5
+{
+	z-index: 2;
+	width: 621px;
+	min-height: 64px;
+	background-color: transparent;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u2386-2
+{
+	font-size: 42px;
+	font-weight: normal;
+}
+
+#u2386-3
+{
+	font-size: 16px;
+}
+
+#slideshowu2440
+{
+	z-index: 14;
+	width: 0.01px;
+	height: 400px;
+	margin-left: 71px;
+	top: -7px;
+	margin-bottom: -7px;
+	position: relative;
+}
+
+#u2458
+{
+	position: absolute;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+}
+
+#u2458popup
+{
+	z-index: 15;
+}
+
+#u2459
+{
+	z-index: 16;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2553
+{
+	z-index: 18;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2562
+{
+	z-index: 20;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2571
+{
+	z-index: 22;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2580
+{
+	z-index: 24;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2589
+{
+	z-index: 26;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2598
+{
+	z-index: 28;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2607
+{
+	z-index: 30;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2616
+{
+	z-index: 32;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2625
+{
+	z-index: 34;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2634
+{
+	z-index: 36;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2643
+{
+	z-index: 38;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2652
+{
+	z-index: 40;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2661
+{
+	z-index: 42;
+	width: 480px;
+	height: 360px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2598_clip,#u2616_clip,#u2625_clip,#u2634_clip,#u2643_clip,#u2652_clip,#u2661_clip
+{
+	overflow: hidden;
+	width: 480px;
+	height: 360px;
+}
+
+#u2598_img,#u2616_img,#u2625_img,#u2634_img,#u2643_img,#u2652_img,#u2661_img
+{
+	margin-left: -31px;
+	margin-right: -31px;
+}
+
+#u2448-4
+{
+	position: absolute;
+	width: 48px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	line-height: 1.4;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 360px;
+	left: 381px;
+}
+
+#u2448-4popup
+{
+	z-index: 44;
+}
+
+#u2443-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	line-height: 1.4;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 360px;
+	left: 350px;
+}
+
+#u2443-4popup
+{
+	z-index: 48;
+}
+
+#u2448,#u2443
+{
+	color: #999999;
+}
+
+#u2457-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	line-height: 1.4;
+	color: #999999;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 360px;
+	left: 450px;
+}
+
+#u2457-4popup
+{
+	z-index: 52;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u2387
+{
+	z-index: 7;
+	width: 153px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: 598px;
+	top: -152px;
+	margin-bottom: -152px;
+	position: relative;
+}
+
+#u2388
+{
+	z-index: 8;
+	width: 153px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2390-4
+{
+	z-index: 10;
+	width: 111px;
+	min-height: 34px;
+	background-color: transparent;
+	font-size: 42px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 27px;
+	margin-top: 4px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 962px;
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+

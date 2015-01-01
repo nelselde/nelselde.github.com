@@ -1,7 +1,7 @@
 .version.dustin_hancks /* version checker */
 {
-	color: #00001B;
-	background-color: #804677;
+	color: #000018;
+	background-color: #433094;
 }
 
 .html
@@ -273,10 +273,10 @@
 	left: 291px;
 }
 
-#u1169-7
+#u1169-11
 {
 	z-index: 54;
-	width: 106px;
+	width: 201px;
 	min-height: 28px;
 	background-color: transparent;
 	position: relative;
@@ -287,7 +287,7 @@
 
 #u1179
 {
-	z-index: 61;
+	z-index: 65;
 	width: 102px;
 	background-color: transparent;
 	position: relative;
@@ -298,7 +298,7 @@
 
 #u1177
 {
-	z-index: 63;
+	z-index: 67;
 	width: 101px;
 	height: 121px;
 	border-width: 1px;
@@ -313,13 +313,13 @@
 
 #u1191-13
 {
-	z-index: 64;
+	z-index: 68;
 	width: 458px;
 	min-height: 262px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 360px;
+	margin-top: 395px;
 	left: 347px;
 }
 
@@ -329,7 +329,7 @@
 	font-weight: 400;
 }
 
-#u1169,#u1169-4,#u1191-9,#u1191-10,#u1191-11
+#u1169,#u1169-4,#u1169-6,#u1191-9,#u1191-10,#u1191-11
 {
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
@@ -337,7 +337,7 @@
 
 #u1208-4
 {
-	z-index: 77;
+	z-index: 81;
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
@@ -347,13 +347,13 @@
 	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 634px;
+	margin-top: 637px;
 	left: 636px;
 }
 
 #u1209
 {
-	z-index: 81;
+	z-index: 85;
 	width: 837px;
 	height: 1px;
 	border-width: 1px;
@@ -362,24 +362,24 @@
 	background-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 663px;
+	margin-top: 666px;
 	left: 97px;
 }
 
 #u1210
 {
-	z-index: 82;
+	z-index: 86;
 	width: 51px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 622px;
+	margin-top: 625px;
 	left: 39px;
 }
 
 #u1640
 {
-	z-index: 84;
+	z-index: 88;
 	width: 1px;
 	height: 361px;
 	border-width: 1px;
@@ -390,6 +390,19 @@
 	margin-right: -10000px;
 	margin-top: 254px;
 	left: 42px;
+}
+
+#u2789-5
+{
+	z-index: 89;
+	width: 200px;
+	background-color: transparent;
+	font-family: quattrocento-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 357px;
+	left: 348px;
 }
 
 body

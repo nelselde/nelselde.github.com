@@ -1,7 +1,7 @@
 .version.diane_downhour /* version checker */
 {
-	color: #0000ED;
-	background-color: #6763D0;
+	color: #00001D;
+	background-color: #F8191B;
 }
 
 .html
@@ -303,12 +303,12 @@
 #u616-9
 {
 	z-index: 57;
-	width: 106px;
+	width: 179px;
 	min-height: 28px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 273px;
+	margin-top: 276px;
 	left: 344px;
 }
 
@@ -318,7 +318,7 @@
 	font-weight: 700;
 }
 
-#u632-15
+#u632-13
 {
 	z-index: 66;
 	width: 574px;
@@ -328,20 +328,13 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 371px;
+	margin-top: 390px;
 	left: 344px;
-}
-
-#u632-8
-{
-	font-family: quattrocento-sans, sans-serif;
-	font-weight: 400;
-	font-style: italic;
 }
 
 #u633-4
 {
-	z-index: 81;
+	z-index: 79;
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
@@ -357,7 +350,7 @@
 
 #u634
 {
-	z-index: 85;
+	z-index: 83;
 	width: 837px;
 	height: 1px;
 	border-width: 1px;
@@ -372,7 +365,7 @@
 
 #u635
 {
-	z-index: 86;
+	z-index: 84;
 	width: 51px;
 	background-color: transparent;
 	position: relative;
@@ -383,7 +376,7 @@
 
 #u639
 {
-	z-index: 88;
+	z-index: 86;
 	width: 568px;
 	background-color: transparent;
 	position: relative;
@@ -394,7 +387,7 @@
 
 #u1642
 {
-	z-index: 90;
+	z-index: 88;
 	width: 2px;
 	height: 783px;
 	border-width: 1px;
@@ -405,6 +398,19 @@
 	margin-right: -10000px;
 	margin-top: 254px;
 	left: 42px;
+}
+
+#u2788-5
+{
+	z-index: 89;
+	width: 200px;
+	background-color: transparent;
+	font-family: quattrocento-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 358px;
+	left: 344px;
 }
 
 body

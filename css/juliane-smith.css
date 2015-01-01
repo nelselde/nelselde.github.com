@@ -1,7 +1,7 @@
 .version.juliane_smith /* version checker */
 {
-	color: #0000EC;
-	background-color: #84C136;
+	color: #000010;
+	background-color: #DEA603;
 }
 
 .html
@@ -267,7 +267,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 362px;
+	margin-top: 383px;
 	left: 344px;
 }
 
@@ -415,7 +415,20 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 715px;
+	margin-top: 728px;
+	left: 344px;
+}
+
+#u2799-5
+{
+	z-index: 87;
+	width: 200px;
+	background-color: transparent;
+	font-family: quattrocento-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 353px;
 	left: 344px;
 }
 

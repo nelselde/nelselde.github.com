@@ -1,7 +1,7 @@
 .version.della_fixsen /* version checker */
 {
-	color: #000013;
-	background-color: #BBA2F0;
+	color: #00000B;
+	background-color: #ED0F31;
 }
 
 .html
@@ -270,7 +270,7 @@
 	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 693px;
+	margin-top: 727px;
 	left: 636px;
 }
 
@@ -285,7 +285,7 @@
 	background-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 722px;
+	margin-top: 756px;
 	left: 97px;
 }
 
@@ -297,7 +297,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 346px;
+	margin-top: 380px;
 	left: 345px;
 }
 
@@ -314,14 +314,14 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 682px;
+	margin-top: 716px;
 	left: 40px;
 }
 
-#u1650-7
+#u1650-9
 {
 	z-index: 75;
-	width: 106px;
+	width: 166px;
 	min-height: 28px;
 	background-color: transparent;
 	position: relative;
@@ -330,7 +330,7 @@
 	left: 345px;
 }
 
-#u1646-12,#u1646-13,#u1650,#u1650-4
+#u1646-12,#u1646-13,#u1650,#u1650-4,#u1650-6
 {
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
@@ -338,7 +338,7 @@
 
 #u1651
 {
-	z-index: 82;
+	z-index: 84;
 	width: 1px;
 	height: 409px;
 	border-width: 1px;
@@ -353,7 +353,7 @@
 
 #u1654
 {
-	z-index: 83;
+	z-index: 85;
 	width: 102px;
 	background-color: transparent;
 	position: relative;
@@ -378,7 +378,7 @@
 
 #u1656
 {
-	z-index: 85;
+	z-index: 87;
 	width: 101px;
 	height: 121px;
 	border-width: 1px;
@@ -393,7 +393,7 @@
 
 #u1659
 {
-	z-index: 86;
+	z-index: 88;
 	width: 38px;
 	height: 1px;
 	border-width: 1px;
@@ -404,6 +404,19 @@
 	margin-right: -10000px;
 	margin-top: 141px;
 	left: 284px;
+}
+
+#u2796-5
+{
+	z-index: 89;
+	width: 200px;
+	background-color: transparent;
+	font-family: quattrocento-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 352px;
+	left: 345px;
 }
 
 body
