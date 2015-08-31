@@ -19,9 +19,9 @@
 #u138-4
 {
 	background-color: transparent;
+	text-align: center;
 	font-size: 80px;
 	color: #000000;
-	text-align: center;
 	font-family: cabin, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -30,8 +30,8 @@
 #u139-4
 {
 	background-color: transparent;
-	font-size: 20px;
 	color: #7F7F7F;
+	font-size: 20px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

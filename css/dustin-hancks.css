@@ -1,7 +1,7 @@
 .version.dustin_hancks /* version checker */
 {
-	color: #000018;
-	background-color: #433094;
+	color: #0000F0;
+	background-color: #BB4FCF;
 }
 
 .html
@@ -29,11 +29,6 @@
 	width: 580px;
 	margin-right: -10000px;
 	left: 380px;
-}
-
-#u141_img
-{
-	padding-right: 1px;
 }
 
 #u291
@@ -341,8 +336,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

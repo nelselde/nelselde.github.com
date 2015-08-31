@@ -1,7 +1,7 @@
 .version.hopefulmonsters /* version checker */
 {
-	color: #0000F8;
-	background-color: #5EED1C;
+	color: #00000D;
+	background-color: #C4D871;
 }
 
 .html
@@ -67,8 +67,8 @@
 	width: 202px;
 	min-height: 34px;
 	background-color: transparent;
-	font-size: 42px;
 	text-align: center;
+	font-size: 42px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-top: 59px;
 	position: relative;

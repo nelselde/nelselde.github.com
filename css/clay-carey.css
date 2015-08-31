@@ -1,7 +1,7 @@
 .version.clay_carey /* version checker */
 {
-	color: #0000EC;
-	background-color: #6F275C;
+	color: #00000B;
+	background-color: #C3B1E2;
 }
 
 .html
@@ -316,11 +316,6 @@
 	left: 344px;
 }
 
-#u141_img,#u2036_img
-{
-	padding-right: 1px;
-}
-
 #u2042-5
 {
 	z-index: 76;
@@ -355,8 +350,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

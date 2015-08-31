@@ -1,7 +1,7 @@
 .version.ed_chuong /* version checker */
 {
-	color: #000005;
-	background-color: #AB800B;
+	color: #000016;
+	background-color: #FAAEA9;
 }
 
 .html
@@ -29,11 +29,6 @@
 	width: 580px;
 	margin-right: -10000px;
 	left: 380px;
-}
-
-#u141_img
-{
-	padding-right: 1px;
 }
 
 #u291
@@ -315,8 +310,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

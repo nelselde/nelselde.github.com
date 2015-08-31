@@ -1,7 +1,7 @@
 .version.logo /* version checker */
 {
-	color: #0000E2;
-	background-color: #92C575;
+	color: #00000F;
+	background-color: #CB11BC;
 }
 
 .html
@@ -30,8 +30,8 @@
 	width: 645px;
 	min-height: 90px;
 	background-color: transparent;
-	font-size: 24px;
 	text-align: left;
+	font-size: 24px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;

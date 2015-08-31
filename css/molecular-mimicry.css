@@ -1,7 +1,7 @@
 .version.molecular_mimicry /* version checker */
 {
-	color: #000016;
-	background-color: #B1A364;
+	color: #000017;
+	background-color: #37E6E2;
 }
 
 .html
@@ -29,11 +29,6 @@
 	width: 580px;
 	margin-right: -10000px;
 	left: 380px;
-}
-
-#u141_img
-{
-	padding-right: 1px;
 }
 
 #u291
@@ -518,8 +513,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -585,8 +580,8 @@
 	z-index: 95;
 	width: 398px;
 	background-color: transparent;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.pathogen_driven_evolution /* version checker */
 {
-	color: #0000F2;
-	background-color: #49EF02;
+	color: #000001;
+	background-color: #8CFBD3;
 }
 
 .html
@@ -29,11 +29,6 @@
 	width: 580px;
 	margin-right: -10000px;
 	left: 380px;
-}
-
-#u141_img
-{
-	padding-right: 1px;
 }
 
 #u291
@@ -543,8 +538,8 @@
 	width: 217px;
 	min-height: 35px;
 	background-color: transparent;
-	font-size: 18px;
 	text-align: left;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -559,8 +554,8 @@
 	width: 37px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -575,8 +570,8 @@
 	width: 37px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -591,8 +586,8 @@
 	width: 37px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -607,8 +602,8 @@
 	width: 37px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -623,8 +618,8 @@
 	width: 37px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -639,8 +634,8 @@
 	width: 37px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -688,8 +683,8 @@
 	width: 59px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -704,8 +699,8 @@
 	width: 41px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -720,8 +715,8 @@
 	width: 25px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -736,8 +731,8 @@
 	width: 25px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -752,8 +747,8 @@
 	width: 25px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -768,8 +763,8 @@
 	width: 25px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 14px;
 	text-align: left;
+	font-size: 14px;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -814,8 +809,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

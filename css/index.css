@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #C762A0;
+	color: #0000F2;
+	background-color: #2B20DD;
 }
 
 .html
@@ -30,11 +30,6 @@
 	width: 580px;
 	margin-right: -10000px;
 	left: 380px;
-}
-
-#u141_img
-{
-	padding-right: 1px;
 }
 
 #u291
@@ -265,8 +260,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -370,7 +365,7 @@
 	z-index: 64;
 }
 
-#u2757
+#u2999
 {
 	z-index: 65;
 	width: 267px;
@@ -382,15 +377,21 @@
 	position: relative;
 }
 
-#u2757_img
+#u2757
 {
-	margin-top: -57px;
-	margin-bottom: -56px;
+	z-index: 67;
+	width: 267px;
+	height: 157px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u1938
 {
-	z-index: 67;
+	z-index: 69;
 	width: 267px;
 	height: 157px;
 	border-style: none;
@@ -403,31 +404,6 @@
 #u1938_img
 {
 	padding-right: 4px;
-}
-
-#u1984
-{
-	z-index: 69;
-	width: 267px;
-	height: 157px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u2757_clip,#u1984_clip
-{
-	overflow: hidden;
-	width: 267px;
-	height: 157px;
-}
-
-#u1984_img
-{
-	margin-top: -13px;
-	margin-bottom: -17px;
 }
 
 #u1970
@@ -464,7 +440,7 @@
 	z-index: 73;
 }
 
-#u2760
+#u3002
 {
 	z-index: 74;
 	width: 60px;
@@ -476,7 +452,7 @@
 	left: 3px;
 }
 
-#u1930
+#u2760
 {
 	z-index: 76;
 	width: 60px;
@@ -488,13 +464,7 @@
 	left: 73px;
 }
 
-#u1930_img
-{
-	margin-top: -4px;
-	margin-bottom: -4px;
-}
-
-#u1987
+#u1930
 {
 	z-index: 78;
 	width: 60px;
@@ -506,10 +476,10 @@
 	left: 143px;
 }
 
-#u1987_img
+#u1930_img
 {
-	margin-left: -2px;
-	margin-right: -2px;
+	margin-top: -4px;
+	margin-bottom: -4px;
 }
 
 #u1973
@@ -524,14 +494,17 @@
 	left: 213px;
 }
 
-#u2760.SSSlideLinkSelected,#u1930.SSSlideLinkSelected,#u1987.SSSlideLinkSelected,#u1973.SSSlideLinkSelected
+#u3002.SSSlideLinkSelected,#u2760.SSSlideLinkSelected,#u1930.SSSlideLinkSelected,#u1973.SSSlideLinkSelected
 {
 	border-style: none;
 	border-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1930_clip,#u1987_clip,#u1973_clip
+#u1930_clip,#u1973_clip
 {
 	overflow: hidden;
 	width: 60px;
@@ -558,7 +531,7 @@
 	z-index: 82;
 }
 
-#u2763-11
+#u3005-9
 {
 	z-index: 83;
 	width: 191px;
@@ -568,12 +541,36 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 1.4;
-	color: #000000;
 	text-align: left;
+	color: #000000;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
 	position: relative;
+}
+
+#u2763-11
+{
+	z-index: 92;
+	width: 191px;
+	min-height: 118px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	line-height: 1.4;
+	text-align: left;
+	color: #000000;
+	font-family: quattrocento-sans, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2763
+{
+	font-family: quattrocento-sans, sans-serif;
+	font-weight: 700;
 }
 
 #u2763-7
@@ -599,24 +596,6 @@
 
 #u1922-9
 {
-	z-index: 94;
-	width: 191px;
-	min-height: 118px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 1.4;
-	color: #000000;
-	text-align: left;
-	font-family: quattrocento-sans, sans-serif;
-	font-weight: 400;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u1990-13
-{
 	z-index: 103;
 	width: 191px;
 	min-height: 118px;
@@ -625,23 +604,17 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 1.4;
-	color: #000000;
 	text-align: left;
+	color: #000000;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
 	position: relative;
 }
 
-#u2763,#u1990-2,#u1990-5
-{
-	font-family: quattrocento-sans, sans-serif;
-	font-weight: 700;
-}
-
 #u1976-11
 {
-	z-index: 116;
+	z-index: 112;
 	width: 191px;
 	min-height: 118px;
 	border-style: none;
@@ -649,8 +622,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 1.4;
-	color: #000000;
 	text-align: left;
+	color: #000000;
 	font-family: quattrocento-sans, sans-serif;
 	font-weight: 400;
 	margin-right: -10000px;
@@ -666,15 +639,15 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 168px;
 }
 
 #u1924-4popup
 {
-	z-index: 127;
+	z-index: 123;
 }
 
 #u1924
@@ -692,8 +665,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 1.4;
-	color: #999999;
 	text-align: center;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 169px;
 	left: 314px;
@@ -701,7 +674,7 @@
 
 #u1943-4popup
 {
-	z-index: 131;
+	z-index: 127;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -716,7 +689,7 @@
 
 #u2320
 {
-	z-index: 135;
+	z-index: 131;
 	width: 131px;
 	border-style: none;
 	border-color: transparent;
@@ -729,7 +702,7 @@
 
 #u2314
 {
-	z-index: 136;
+	z-index: 132;
 	width: 100px;
 	background-color: transparent;
 	margin-left: 10px;
@@ -738,7 +711,7 @@
 
 #u2317
 {
-	z-index: 138;
+	z-index: 134;
 	width: 131px;
 	background-color: transparent;
 	margin-top: 7px;

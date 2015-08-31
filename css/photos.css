@@ -1,7 +1,7 @@
 .version.photos /* version checker */
 {
-	color: #000012;
-	background-color: #F2C719;
+	color: #0000EA;
+	background-color: #07AB96;
 }
 
 .html
@@ -260,8 +260,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 360px;
 	left: 381px;
@@ -281,8 +281,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 1.4;
 	text-align: center;
+	line-height: 1.4;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 360px;
 	left: 350px;
@@ -308,8 +308,8 @@
 	background-color: #FFFFFF;
 	padding: 10px;
 	line-height: 1.4;
-	color: #999999;
 	text-align: center;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 360px;
 	left: 450px;

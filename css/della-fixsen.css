@@ -1,7 +1,7 @@
 .version.della_fixsen /* version checker */
 {
-	color: #00000B;
-	background-color: #ED0F31;
+	color: #0000E8;
+	background-color: #E610FD;
 }
 
 .html
@@ -29,11 +29,6 @@
 	width: 580px;
 	margin-right: -10000px;
 	left: 380px;
-}
-
-#u141_img
-{
-	padding-right: 1px;
 }
 
 #u291
@@ -264,8 +259,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;

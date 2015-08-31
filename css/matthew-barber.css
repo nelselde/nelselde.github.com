@@ -1,7 +1,7 @@
 .version.matthew_barber /* version checker */
 {
-	color: #00001E;
-	background-color: #A1013D;
+	color: #0000F9;
+	background-color: #4E2983;
 }
 
 .html
@@ -286,8 +286,8 @@
 	width: 286px;
 	min-height: 31px;
 	background-color: transparent;
-	font-size: 18px;
 	color: #7F7F7F;
+	font-size: 18px;
 	font-family: cabin, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -396,11 +396,6 @@
 	margin-right: -10000px;
 	margin-top: 698px;
 	left: 377px;
-}
-
-#u141_img,#u2393_img
-{
-	padding-right: 1px;
 }
 
 #u2793-5

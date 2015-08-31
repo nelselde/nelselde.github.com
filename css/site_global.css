@@ -74,6 +74,10 @@ body
 	line-height: 1.2;
 	word-wrap: break-word;
 	text-rendering: optimizeLegibility;/* kerning, primarily */
+	-moz-font-feature-settings: 'liga';
+	-ms-font-feature-settings: 'liga';
+	-webkit-font-feature-settings: 'liga';
+	font-feature-settings: 'liga';
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:0)
@@ -130,6 +134,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-align: left;
 	text-decoration: none;
 	text-indent: 0px;
+	text-transform: none;
 	vertical-align: 0px;
 	padding: 0px;
 }
@@ -502,7 +507,7 @@ textarea
 	width: 0px;
 }
 
-.fld-checkbox input[type=checkbox] /* Hide native checkbox */
+.fld-checkbox input[type=checkbox],.fld-radiobutton input[type=radio] /* Hide native checkbox */
 {
 	position: absolute;
 	overflow: hidden;
@@ -514,7 +519,7 @@ textarea
 	border: 0;
 }
 
-.fld-checkbox input[type=checkbox] + label
+.fld-checkbox input[type=checkbox] + label,.fld-radiobutton input[type=radio] + label
 {
 	display: inline-block;
 	background-repeat: no-repeat;
@@ -527,5 +532,30 @@ textarea
 .pointer_cursor,.fld-recaptcha-mode,.fld-recaptcha-refresh,.fld-recaptcha-help
 {
 	cursor: pointer;
+}
+
+p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara /* disable Android font boosting */
+{
+	max-height: 1000000px;
+}
+
+.superscript
+{
+	vertical-align: super;
+	font-size: 66%;
+	line-height: 0;
+}
+
+.subscript
+{
+	vertical-align: sub;
+	font-size: 66%;
+	line-height: 0;
+}
+
+.wp-slideshow-clip,.SlideShowWidget /* disable pointer events on slide shows */
+{
+	-ms-touch-action: none;
+	touch-action: none;
 }
 
