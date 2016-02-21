@@ -1,12 +1,12 @@
 .version.program /* version checker */
 {
-	color: #00000C;
-	background-color: #CB4279;
+	color: #0000E3;
+	background-color: #18D0BA;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #7F7F7F;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,8 +15,8 @@
 	width: 960px;
 	min-height: 652px;
 	background-image: none;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding-bottom: 62px;
@@ -39,7 +39,7 @@
 {
 	z-index: 4;
 	width: 153px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 0px;
@@ -88,6 +88,11 @@
 #u2299-11
 {
 	font-style: italic;
+}
+
+.html
+{
+	background-color: #7F7F7F;
 }
 
 body

@@ -1,12 +1,12 @@
 .version.hopefulmonsters /* version checker */
 {
-	color: #00000D;
-	background-color: #C4D871;
+	color: #00000C;
+	background-color: #19C150;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #7F7F7F;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,8 +15,8 @@
 	width: 858px;
 	min-height: 543px;
 	background-image: none;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
@@ -159,6 +159,11 @@
 	margin-left: 161px;
 	margin-top: 24px;
 	position: relative;
+}
+
+.html
+{
+	background-color: #7F7F7F;
 }
 
 body

@@ -1,12 +1,12 @@
 .version.weather_details /* version checker */
 {
-	color: #0000FC;
-	background-color: #7D0F29;
+	color: #000016;
+	background-color: #4ECCD3;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #7F7F7F;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,8 +15,8 @@
 	width: 775px;
 	min-height: 551.237194055944px;
 	background-image: none;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
@@ -58,7 +58,7 @@
 	z-index: 9;
 	width: 200px;
 	min-height: 248px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -101,7 +101,7 @@
 {
 	z-index: 2;
 	width: 153px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 0px;
@@ -130,6 +130,11 @@
 	margin-left: 27px;
 	margin-top: 4px;
 	position: relative;
+}
+
+.html
+{
+	background-color: #7F7F7F;
 }
 
 body
