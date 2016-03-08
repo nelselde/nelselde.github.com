@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.cellvolution.org" resolutions="1x" timestamp="1456002879758">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.cellvolution.org" resolutions="1x" timestamp="1457418169420">
   <folder name="assets">
     <file name="program2.pdf" crc="3935224315" seo="true" mt="1415563360000"/>
   </folder>
@@ -15,8 +15,8 @@
     <file name="research.css" crc="279297008" ref="research"/>
     <file name="iefonts_research.css" crc="4183681322" ref="research"/>
     <file name="hopefulmonsters.css" crc="203014480" ref="hopefulmonsters"/>
-    <file name="news.css" crc="4219325416" ref="news"/>
-    <file name="iefonts_news.css" crc="127888602" ref="news"/>
+    <file name="news.css" crc="3800160228" ref="news"/>
+    <file name="iefonts_news.css" crc="4066424497" ref="news"/>
     <file name="program.css" crc="3810054330" ref="program"/>
     <file name="experimental-evolution.css" crc="418909714" ref="experimental-evolution"/>
     <file name="iefonts_experimental-evolution.css" crc="4047664962" ref="experimental-evolution"/>
@@ -30,8 +30,8 @@
     <file name="sponsors.css" crc="3942806537" ref="sponsors"/>
     <file name="kelsey-rogers.css" crc="441345729" ref="kelsey-rogers"/>
     <file name="iefonts_kelsey-rogers.css" crc="3860262519" ref="kelsey-rogers"/>
-    <file name="publications.css" crc="3869364778" ref="publications"/>
-    <file name="iefonts_publications.css" crc="207261081" ref="publications"/>
+    <file name="publications.css" crc="478761206" ref="publications"/>
+    <file name="iefonts_publications.css" crc="173822970" ref="publications"/>
     <file name="molecular-mimicry.css" crc="344707950" ref="molecular-mimicry"/>
     <file name="iefonts_molecular-mimicry.css" crc="4242879066" ref="molecular-mimicry"/>
     <file name="nels-elde.css" crc="4220534640" ref="nels-elde"/>
@@ -56,8 +56,8 @@
     <file name="iefonts_contact.css" crc="272526562" ref="contact"/>
     <file name="alesia-mckeown.css" crc="368140593" ref="alesia-mckeown"/>
     <file name="iefonts_alesia-mckeown.css" crc="3935535093" ref="alesia-mckeown"/>
-    <file name="index.css" crc="3994817199" ref="index"/>
-    <file name="iefonts_index.css" crc="3806715743" ref="index"/>
+    <file name="index.css" crc="429628989" ref="index"/>
+    <file name="iefonts_index.css" crc="158877738" ref="index"/>
     <file name="elde-lab-summer-2014.css" crc="18209478" ref="elde-lab-summer-2014"/>
     <file name="iefonts_elde-lab-summer-2014.css" crc="478945187" ref="elde-lab-summer-2014"/>
     <file name="juliane-smith.css" crc="3830423806" ref="juliane-smith"/>
@@ -81,7 +81,7 @@
     <file name="piratemapcrop-crop-u2757.jpg" crc="304684994" ref="index"/>
     <file name="edjcc-crop-u1938.jpg" crc="3885551713" ref="index"/>
     <file name="dustinacs.jpg" crc="4184903386" seo="true" ref="index:news"/>
-    <file name="alesia3-crop-u3002.jpg" crc="3807321256" ref="index"/>
+    <file name="alesia3-crop-u3002.jpg" crc="230107537" ref="index"/>
     <file name="piratemapcrop-crop-u2760.jpg" crc="203927298" ref="index"/>
     <file name="edjcc.jpg" crc="306339651" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:photos"/>
@@ -124,7 +124,7 @@
     <file name="melissa2-crop-u1101.jpg" crc="355603311" ref="news"/>
     <file name="twiv_gm_2013.jpg" crc="215417157" seo="true" ref="news"/>
     <file name="matt2-crop-u1597.jpg" crc="4074225522" ref="news"/>
-    <file name="smithjuliane1-crop-u2673.jpg" crc="3978170827" ref="news"/>
+    <file name="smithjuliane1-crop-u2673.jpg" crc="4145776247" ref="news"/>
     <file name="cheetah.jpg" crc="4149258732" seo="true" ref="news"/>
     <file name="4513_741116254954_6099025_n-crop-u2694.jpg" crc="446849594" ref="news"/>
     <file name="screen shot 2014-12-10 at 111505 pm.jpg" crc="130363985" seo="true" ref="news"/>
@@ -180,13 +180,17 @@
     <file name="dsc_0586.jpg" crc="186410203" seo="true" ref="photos"/>
     <file name="alesia2.jpg" crc="4186474841" seo="true" ref="alesia-mckeown"/>
     <file name="lab2015.jpg" crc="210654859" seo="true" ref="elde-lab-summer-2015"/>
+    <file name="dna invadersweb bannersmall_url.jpg" crc="4089457051" seo="true" ref="index"/>
+    <file name="u1924-4.png" crc="315955609" ref="index"/>
+    <file name="u1943-4.png" crc="4044181578" ref="index"/>
+    <file name="dna invadersweb bannersmall_url2.jpg" crc="4242443996" seo="true" ref="news"/>
   </folder>
-  <file name="index.html" crc="268913748" seo="true" mt="1456002857486" redirect="true"/>
+  <file name="index.html" crc="4087160247" seo="true" mt="1457319328327" redirect="true"/>
   <file name="people.html" crc="4235703488" seo="true" mt="1455609572577" redirect="true"/>
   <file name="research.html" crc="153710865" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="publications.html" crc="225904334" seo="true" mt="1455994701996" redirect="true"/>
+  <file name="publications.html" crc="3785681749" seo="true" mt="1457304647299" redirect="true"/>
   <file name="contact.html" crc="244017839" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="news.html" crc="4218587269" seo="true" mt="1456001594758" redirect="true"/>
+  <file name="news.html" crc="4274743478" seo="true" mt="1457311955251" redirect="true"/>
   <file name="nels-elde.html" crc="69882196" seo="true" mt="1438149848575" redirect="true"/>
   <file name="diane-downhour.html" crc="4266833845" seo="true" mt="1440364514297" redirect="true"/>
   <file name="melissa-hartley.html" crc="388552728" seo="true" mt="1438149848575" redirect="true"/>
