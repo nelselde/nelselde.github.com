@@ -1,78 +1,78 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.cellvolution.org" resolutions="1x" timestamp="1468792316773">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.cellvolution.org" resolutions="1x" timestamp="1469684523063">
   <folder name="css">
     <file name="site_global.css" crc="4084164610"/>
-    <file name="master_a-master.css" crc="3898068229" ref="melissa-hartley:juliane-smith:elde-lab-summer-2015:matthew-barber:elde-lab-summer-2014:pathogen-driven-evolution:arms-races:molecular-mimicry:index:experimental-evolution:people:dustin-hancks:research:kelsey-rogers:publications:della-fixsen:contact:news:elde-lab-summer-2013:nels-elde:ed-chuong:alesia-mckeown:diane-downhour:clay-carey:elliot-lee"/>
+    <file name="master_a-master.css" crc="3898068229" ref="matthew-barber:people:melissa-hartley:clay-carey:index:arms-races:ed-chuong:publications:pathogen-driven-evolution:elde-lab-summer-2014:research:experimental-evolution:juliane-smith:elde-lab-summer-2015:news:molecular-mimicry:elliot-lee:contact:kelsey-rogers:dustin-hancks:elde-lab-summer-2013:della-fixsen:diane-downhour:alesia-mckeown:nels-elde"/>
+    <file name="matthew-barber.css" crc="3902385863" ref="matthew-barber"/>
+    <file name="iefonts_matthew-barber.css" crc="4108600004" ref="matthew-barber"/>
+    <file name="people.css" crc="4135952303" ref="people"/>
+    <file name="iefonts_people.css" crc="4049012589" ref="people"/>
     <file name="melissa-hartley.css" crc="55498659" ref="melissa-hartley"/>
     <file name="iefonts_melissa-hartley.css" crc="4288140129" ref="melissa-hartley"/>
+    <file name="clay-carey.css" crc="3769116004" ref="clay-carey"/>
+    <file name="iefonts_clay-carey.css" crc="400691864" ref="clay-carey"/>
+    <file name="index.css" crc="4069655040" ref="index"/>
+    <file name="iefonts_index.css" crc="4193808792" ref="index"/>
+    <file name="arms-races.css" crc="4209361719" ref="arms-races"/>
+    <file name="iefonts_arms-races.css" crc="372386909" ref="arms-races"/>
+    <file name="ed-chuong.css" crc="440383636" ref="ed-chuong"/>
+    <file name="iefonts_ed-chuong.css" crc="267734781" ref="ed-chuong"/>
+    <file name="publications.css" crc="3946830891" ref="publications"/>
+    <file name="iefonts_publications.css" crc="4078066263" ref="publications"/>
+    <file name="pathogen-driven-evolution.css" crc="3783574151" ref="pathogen-driven-evolution"/>
+    <file name="iefonts_pathogen-driven-evolution.css" crc="440794377" ref="pathogen-driven-evolution"/>
+    <file name="elde-lab-summer-2014.css" crc="4014955284" ref="elde-lab-summer-2014"/>
+    <file name="iefonts_elde-lab-summer-2014.css" crc="331887086" ref="elde-lab-summer-2014"/>
+    <file name="photos.css" crc="409180126" ref="photos"/>
+    <file name="research.css" crc="3851776005" ref="research"/>
+    <file name="iefonts_research.css" crc="4270805382" ref="research"/>
+    <file name="experimental-evolution.css" crc="3894933517" ref="experimental-evolution"/>
+    <file name="iefonts_experimental-evolution.css" crc="121550068" ref="experimental-evolution"/>
     <file name="juliane-smith.css" crc="3800109532" ref="juliane-smith"/>
     <file name="iefonts_juliane-smith.css" crc="41451233" ref="juliane-smith"/>
     <file name="elde-lab-summer-2015.css" crc="4038748162" ref="elde-lab-summer-2015"/>
     <file name="iefonts_elde-lab-summer-2015.css" crc="215385755" ref="elde-lab-summer-2015"/>
-    <file name="matthew-barber.css" crc="3902385863" ref="matthew-barber"/>
-    <file name="iefonts_matthew-barber.css" crc="4108600004" ref="matthew-barber"/>
-    <file name="elde-lab-summer-2014.css" crc="4014955284" ref="elde-lab-summer-2014"/>
-    <file name="iefonts_elde-lab-summer-2014.css" crc="331887086" ref="elde-lab-summer-2014"/>
-    <file name="pathogen-driven-evolution.css" crc="3783574151" ref="pathogen-driven-evolution"/>
-    <file name="iefonts_pathogen-driven-evolution.css" crc="440794377" ref="pathogen-driven-evolution"/>
-    <file name="hopefulmonsters.css" crc="3763856450" ref="hopefulmonsters"/>
-    <file name="arms-races.css" crc="4209361719" ref="arms-races"/>
-    <file name="iefonts_arms-races.css" crc="372386909" ref="arms-races"/>
-    <file name="program.css" crc="261093145" ref="program"/>
+    <file name="news.css" crc="4194909049" ref="news"/>
+    <file name="iefonts_news.css" crc="4106258934" ref="news"/>
     <file name="molecular-mimicry.css" crc="4053234447" ref="molecular-mimicry"/>
     <file name="iefonts_molecular-mimicry.css" crc="234522670" ref="molecular-mimicry"/>
-    <file name="directions.css" crc="197143674" ref="directions"/>
-    <file name="index.css" crc="200715676" ref="index"/>
-    <file name="iefonts_index.css" crc="4193808792" ref="index"/>
-    <file name="experimental-evolution.css" crc="3894933517" ref="experimental-evolution"/>
-    <file name="iefonts_experimental-evolution.css" crc="121550068" ref="experimental-evolution"/>
-    <file name="sponsors.css" crc="3927191124" ref="sponsors"/>
-    <file name="people.css" crc="4135952303" ref="people"/>
-    <file name="iefonts_people.css" crc="4049012589" ref="people"/>
-    <file name="dustin-hancks.css" crc="298128992" ref="dustin-hancks"/>
-    <file name="iefonts_dustin-hancks.css" crc="467754363" ref="dustin-hancks"/>
-    <file name="logo.css" crc="3950446974" ref="logo"/>
-    <file name="research.css" crc="3851776005" ref="research"/>
-    <file name="iefonts_research.css" crc="4270805382" ref="research"/>
-    <file name="kelsey-rogers.css" crc="70682395" ref="kelsey-rogers"/>
-    <file name="iefonts_kelsey-rogers.css" crc="3991090772" ref="kelsey-rogers"/>
-    <file name="publications.css" crc="3946830891" ref="publications"/>
-    <file name="iefonts_publications.css" crc="4078066263" ref="publications"/>
-    <file name="della-fixsen.css" crc="176905145" ref="della-fixsen"/>
-    <file name="iefonts_della-fixsen.css" crc="27494812" ref="della-fixsen"/>
-    <file name="contact.css" crc="240350041" ref="contact"/>
-    <file name="iefonts_contact.css" crc="364637011" ref="contact"/>
-    <file name="weather-details.css" crc="309182891" ref="weather-details"/>
-    <file name="news.css" crc="413899396" ref="news"/>
-    <file name="iefonts_news.css" crc="270096578" ref="news"/>
-    <file name="elde-lab-summer-2013.css" crc="4184685632" ref="elde-lab-summer-2013"/>
-    <file name="iefonts_elde-lab-summer-2013.css" crc="476432526" ref="elde-lab-summer-2013"/>
-    <file name="photos.css" crc="4217358003" ref="photos"/>
-    <file name="nels-elde.css" crc="4034230879" ref="nels-elde"/>
-    <file name="iefonts_nels-elde.css" crc="3978658642" ref="nels-elde"/>
-    <file name="ed-chuong.css" crc="440383636" ref="ed-chuong"/>
-    <file name="iefonts_ed-chuong.css" crc="267734781" ref="ed-chuong"/>
-    <file name="alesia-mckeown.css" crc="4254033814" ref="alesia-mckeown"/>
-    <file name="iefonts_alesia-mckeown.css" crc="370140827" ref="alesia-mckeown"/>
-    <file name="diane-downhour.css" crc="4041249278" ref="diane-downhour"/>
-    <file name="iefonts_diane-downhour.css" crc="423157723" ref="diane-downhour"/>
-    <file name="clay-carey.css" crc="3769116004" ref="clay-carey"/>
-    <file name="iefonts_clay-carey.css" crc="400691864" ref="clay-carey"/>
+    <file name="program.css" crc="261093145" ref="program"/>
     <file name="elliot-lee.css" crc="3954427624" ref="elliot-lee"/>
     <file name="iefonts_elliot-lee.css" crc="396389171" ref="elliot-lee"/>
+    <file name="contact.css" crc="240350041" ref="contact"/>
+    <file name="iefonts_contact.css" crc="364637011" ref="contact"/>
+    <file name="kelsey-rogers.css" crc="70682395" ref="kelsey-rogers"/>
+    <file name="iefonts_kelsey-rogers.css" crc="3991090772" ref="kelsey-rogers"/>
+    <file name="hopefulmonsters.css" crc="3763856450" ref="hopefulmonsters"/>
+    <file name="dustin-hancks.css" crc="298128992" ref="dustin-hancks"/>
+    <file name="iefonts_dustin-hancks.css" crc="467754363" ref="dustin-hancks"/>
+    <file name="sponsors.css" crc="3927191124" ref="sponsors"/>
+    <file name="elde-lab-summer-2013.css" crc="4184685632" ref="elde-lab-summer-2013"/>
+    <file name="iefonts_elde-lab-summer-2013.css" crc="476432526" ref="elde-lab-summer-2013"/>
+    <file name="directions.css" crc="197143674" ref="directions"/>
+    <file name="della-fixsen.css" crc="176905145" ref="della-fixsen"/>
+    <file name="iefonts_della-fixsen.css" crc="27494812" ref="della-fixsen"/>
+    <file name="weather-details.css" crc="309182891" ref="weather-details"/>
+    <file name="logo.css" crc="3950446974" ref="logo"/>
+    <file name="diane-downhour.css" crc="4041249278" ref="diane-downhour"/>
+    <file name="iefonts_diane-downhour.css" crc="423157723" ref="diane-downhour"/>
+    <file name="alesia-mckeown.css" crc="4254033814" ref="alesia-mckeown"/>
+    <file name="iefonts_alesia-mckeown.css" crc="370140827" ref="alesia-mckeown"/>
+    <file name="nels-elde.css" crc="4034230879" ref="nels-elde"/>
+    <file name="iefonts_nels-elde.css" crc="3978658642" ref="nels-elde"/>
   </folder>
   <folder name="assets">
     <file name="program2.pdf" crc="3935224315" seo="true" mt="1415563360000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
-    <file name="museutils.js" crc="4155826306" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
+    <file name="museutils.js" crc="3851988764" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
     <file name="whatinput.js" crc="86476730" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
-    <file name="museconfig.js" crc="328327953" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
-    <file name="require.js" crc="228336483" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
-    <file name="webpro.js" crc="4078243563" ref="photos"/>
-    <file name="musewpslideshow.js" crc="4115829919" ref="photos"/>
-    <file name="jquery.museoverlay.js" crc="3936724022" ref="photos"/>
-    <file name="touchswipe.js" crc="157639107" ref="photos"/>
+    <file name="museconfig.js" crc="169177150" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
+    <file name="require.js" crc="4108833657" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:hopefulmonsters:program:directions:sponsors:logo:weather-details:photos:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
+    <file name="webpro.js" crc="4067903014" ref="photos"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="photos"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="photos"/>
+    <file name="touchswipe.js" crc="474750357" ref="photos"/>
   </folder>
   <folder name="images">
     <file name="accordioncut.png" crc="330899943" seo="true" ref="index:people:research:publications:contact:news:nels-elde:diane-downhour:melissa-hartley:matthew-barber:pathogen-driven-evolution:arms-races:molecular-mimicry:experimental-evolution:dustin-hancks:kelsey-rogers:della-fixsen:elde-lab-summer-2013:ed-chuong:clay-carey:juliane-smith:elde-lab-summer-2014:alesia-mckeown:elliot-lee:elde-lab-summer-2015"/>
@@ -83,16 +83,16 @@
     <file name="della2.jpg" crc="4208228046" seo="true" ref="people:news:della-fixsen"/>
     <file name="elliot picture.jpg" crc="4183096205" seo="true" ref="people:elliot-lee"/>
     <file name="diane.jpg" crc="280252124" seo="true" ref="people:news:diane-downhour"/>
-    <file name="matt2-crop-u990.jpg" crc="3787207555" ref="people"/>
+    <file name="matt2-crop-u990.jpg" crc="286139351" ref="people"/>
     <file name="melissa2-crop-u985.jpg" crc="426811400" ref="people"/>
     <file name="kelsey-crop-u231.jpg" crc="287738731" ref="people"/>
     <file name="nels.jpg" crc="392329189" seo="true" ref="people:news:nels-elde"/>
     <file name="lab2013-crop-u1684.jpg" crc="4046089857" ref="people"/>
     <file name="4513_741116254954_6099025_n-crop-u1739.jpg" crc="3917009383" ref="people"/>
-    <file name="smithjuliane1-crop-u2073.jpg" crc="476313879" ref="people"/>
+    <file name="smithjuliane1-crop-u2073.jpg" crc="4106448891" ref="people"/>
     <file name="claycarey.jpg" crc="518075223" seo="true" ref="people:news:clay-carey"/>
     <file name="lab2014158x119.jpg" crc="4237486974" seo="true" ref="people"/>
-    <file name="alesia1.jpg" crc="4179630688" seo="true" ref="people:news:alesia-mckeown"/>
+    <file name="alesia1.jpg" crc="430633773" seo="true" ref="people:news:alesia-mckeown"/>
     <file name="lab2015160x114.jpg" crc="3816371533" seo="true" ref="people"/>
     <file name="chimphead.png" crc="4269669117" seo="true" ref="research"/>
     <file name="brownvirus.png" crc="194224190" seo="true" ref="research"/>
@@ -121,7 +121,7 @@
     <file name="twiv_gm_2013.jpg" crc="215417157" seo="true" ref="news"/>
     <file name="matt2-crop-u1597.jpg" crc="388652023" ref="news"/>
     <file name="dustinacs.jpg" crc="4184903386" seo="true" ref="news"/>
-    <file name="smithjuliane1-crop-u2673.jpg" crc="290167520" ref="news"/>
+    <file name="smithjuliane1-crop-u2673.jpg" crc="4068526591" ref="news"/>
     <file name="cheetah.jpg" crc="4149258732" seo="true" ref="news"/>
     <file name="4513_741116254954_6099025_n-crop-u2694.jpg" crc="480400284" ref="news"/>
     <file name="screen shot 2014-12-10 at 111505 pm.jpg" crc="130363985" seo="true" ref="news"/>
@@ -140,10 +140,11 @@
     <file name="screen shot 2016-07-16 at 92431 pm.jpg" crc="4040723762" seo="true" ref="news"/>
     <file name="screen shot 2016-07-16 at 92612 pm.jpg" crc="458983258" seo="true" ref="news"/>
     <file name="screen shot 2016-07-17 at 12423 pm.jpg" crc="72038579" seo="true" ref="news"/>
+    <file name="screen shot 2016-07-27 at 113353 pm.jpg" crc="3960100910" seo="true" ref="news"/>
     <file name="landscape.jpg" crc="193422321" seo="true" ref="nels-elde"/>
     <file name="dianefam2015.jpg" crc="4022300965" seo="true" ref="diane-downhour"/>
     <file name="melissa2-crop-u1003.jpg" crc="426811400" ref="melissa-hartley"/>
-    <file name="matt2-crop-u1015.jpg" crc="3787207555" ref="matthew-barber"/>
+    <file name="matt2-crop-u1015.jpg" crc="286139351" ref="matthew-barber"/>
     <file name="screen shot 2014-12-10 at 91546 am.jpg" crc="4082864049" seo="true" ref="matthew-barber"/>
     <file name="histogram.jpg" crc="4171967175" seo="true" ref="pathogen-driven-evolution"/>
     <file name="redqueen.jpg" crc="4018768070" seo="true" ref="arms-races"/>
@@ -154,7 +155,7 @@
     <file name="4513_741116254954_6099025_n-crop-u1763.jpg" crc="3917009383" ref="ed-chuong"/>
     <file name="screen shot 2016-07-16 at 33719 pm.jpg" crc="4145083700" seo="true" ref="ed-chuong"/>
     <file name="screen shot 2014-07-28 at 111102 pm.jpg" crc="4151566611" seo="true" ref="clay-carey"/>
-    <file name="smithjuliane1-crop-u2059.jpg" crc="335596441" ref="juliane-smith"/>
+    <file name="smithjuliane1-crop-u2059.jpg" crc="4102756125" ref="juliane-smith"/>
     <file name="smithjuliane2-crop-u2077.jpg" crc="187376650" ref="juliane-smith"/>
     <file name="lab2014.jpg" crc="3987564885" seo="true" ref="elde-lab-summer-2014"/>
     <file name="megweb.jpg" crc="160597134" seo="true" ref="hopefulmonsters"/>
@@ -184,36 +185,36 @@
     <file name="alesia2.jpg" crc="4186474841" seo="true" ref="alesia-mckeown"/>
     <file name="lab2015.jpg" crc="210654859" seo="true" ref="elde-lab-summer-2015"/>
   </folder>
-  <file name="index.html" crc="439998004" seo="true" mt="1468791096452" redirect="true"/>
-  <file name="people.html" crc="395698504" seo="true" mt="1468791331877" redirect="true"/>
-  <file name="research.html" crc="407772255" seo="true" mt="1468791163443" redirect="true"/>
-  <file name="publications.html" crc="4016793117" seo="true" mt="1468791619186" redirect="true"/>
-  <file name="contact.html" crc="183670517" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="news.html" crc="3895885413" seo="true" mt="1468791475647" redirect="true"/>
-  <file name="nels-elde.html" crc="4274269851" seo="true" mt="1468790486786" redirect="true"/>
-  <file name="diane-downhour.html" crc="437747231" seo="true" mt="1440364514297" redirect="true"/>
-  <file name="melissa-hartley.html" crc="4160382659" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="matthew-barber.html" crc="3875389699" seo="true" mt="1455607732333" redirect="true"/>
-  <file name="pathogen-driven-evolution.html" crc="502438572" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="arms-races.html" crc="4037281934" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="molecular-mimicry.html" crc="4231591452" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="experimental-evolution.html" crc="4247424091" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="dustin-hancks.html" crc="442725882" seo="true" mt="1468787592281" redirect="true"/>
-  <file name="kelsey-rogers.html" crc="111047804" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="della-fixsen.html" crc="167809583" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="elde-lab-summer-2013.html" crc="100173022" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="ed-chuong.html" crc="225424191" seo="true" mt="1468710342739" redirect="true"/>
-  <file name="clay-carey.html" crc="4136279377" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="juliane-smith.html" crc="531068090" seo="true" mt="1438149848575" redirect="true"/>
-  <file name="elde-lab-summer-2014.html" crc="4112075086" seo="true" mt="1440363635977" redirect="true"/>
-  <file name="hopefulmonsters.html" crc="4017110791" seo="true" mt="1419926589254" redirect="true"/>
-  <file name="program.html" crc="4265703458" seo="true" mt="1419926589255" redirect="true"/>
-  <file name="directions.html" crc="124947742" seo="true" mt="1419926589255" redirect="true"/>
-  <file name="sponsors.html" crc="4007321912" seo="true" mt="1419926589256" redirect="true"/>
-  <file name="logo.html" crc="96047252" seo="true" mt="1419926589256" redirect="true"/>
-  <file name="weather-details.html" crc="235915510" seo="true" mt="1419926589257" redirect="true"/>
-  <file name="photos.html" crc="105658463" seo="true" mt="1420010766389" redirect="true"/>
-  <file name="alesia-mckeown.html" crc="3999287449" seo="true" mt="1455607688849" redirect="true"/>
-  <file name="elliot-lee.html" crc="3800269470" seo="true" mt="1440660302946" redirect="true"/>
-  <file name="elde-lab-summer-2015.html" crc="3811254277" seo="true" mt="1440389348585" redirect="true"/>
+  <file name="index.html" crc="85554553" seo="true" mt="1469684470596" redirect="true"/>
+  <file name="people.html" crc="381296074" seo="true" mt="1468791331877" redirect="true"/>
+  <file name="research.html" crc="3883083863" seo="true" mt="1468791163443" redirect="true"/>
+  <file name="publications.html" crc="3793928350" seo="true" mt="1469683796900" redirect="true"/>
+  <file name="contact.html" crc="81882150" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="news.html" crc="3920490551" seo="true" mt="1469684132159" redirect="true"/>
+  <file name="nels-elde.html" crc="4231491128" seo="true" mt="1468790486786" redirect="true"/>
+  <file name="diane-downhour.html" crc="443636862" seo="true" mt="1440364514297" redirect="true"/>
+  <file name="melissa-hartley.html" crc="387043617" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="matthew-barber.html" crc="3977035812" seo="true" mt="1455607732333" redirect="true"/>
+  <file name="pathogen-driven-evolution.html" crc="3768237772" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="arms-races.html" crc="3778776919" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="molecular-mimicry.html" crc="4162214070" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="experimental-evolution.html" crc="3794726731" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="dustin-hancks.html" crc="510548331" seo="true" mt="1468787592281" redirect="true"/>
+  <file name="kelsey-rogers.html" crc="493124525" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="della-fixsen.html" crc="390767327" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="elde-lab-summer-2013.html" crc="4125289348" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="ed-chuong.html" crc="89494464" seo="true" mt="1468710342739" redirect="true"/>
+  <file name="clay-carey.html" crc="4235922229" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="juliane-smith.html" crc="4258626123" seo="true" mt="1438149848575" redirect="true"/>
+  <file name="elde-lab-summer-2014.html" crc="449352345" seo="true" mt="1440363635977" redirect="true"/>
+  <file name="hopefulmonsters.html" crc="4236392840" seo="true" mt="1419926589254" redirect="true"/>
+  <file name="program.html" crc="4000092842" seo="true" mt="1419926589255" redirect="true"/>
+  <file name="directions.html" crc="3764483306" seo="true" mt="1419926589255" redirect="true"/>
+  <file name="sponsors.html" crc="405752037" seo="true" mt="1419926589256" redirect="true"/>
+  <file name="logo.html" crc="135965423" seo="true" mt="1419926589256" redirect="true"/>
+  <file name="weather-details.html" crc="223564949" seo="true" mt="1419926589257" redirect="true"/>
+  <file name="photos.html" crc="365707336" seo="true" mt="1420010766389" redirect="true"/>
+  <file name="alesia-mckeown.html" crc="265619751" seo="true" mt="1455607688849" redirect="true"/>
+  <file name="elliot-lee.html" crc="197945324" seo="true" mt="1440660302946" redirect="true"/>
+  <file name="elde-lab-summer-2015.html" crc="4145474156" seo="true" mt="1440389348585" redirect="true"/>
 </manifest>
