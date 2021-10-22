@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.cellvolution.org/index.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/hhmi-logo-color.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo.png</image:loc>
@@ -20,14 +23,20 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/people.html</loc>
-    <lastmod>2021-08-24</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/diane_2021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/zoe2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/headshot.jpg</image:loc>
@@ -37,9 +46,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/kelsey-crop-u231.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/nels.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/lab2013-crop-u1684.jpg</image:loc>
@@ -63,9 +69,6 @@
       <image:loc>http://www.cellvolution.org/images/lsd2016180x108.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/zoeh.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.cellvolution.org/images/pasted%20image%201024x768180x135.jpg</image:loc>
     </image:image>
     <image:image>
@@ -78,16 +81,10 @@
       <image:loc>http://www.cellvolution.org/images/kristend.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/mait.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.cellvolution.org/images/elliot%20picture.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/dellaf_new.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/diane_new.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/axethrowing_2018180x135.jpg</image:loc>
@@ -138,19 +135,28 @@
       <image:loc>http://www.cellvolution.org/images/pattyl.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.cellvolution.org/images/nce.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/drewj.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/mai_2021.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.cellvolution.org/research.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo3.png</image:loc>
@@ -179,14 +185,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/publications.html</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u4819.png</image:loc>
@@ -215,14 +221,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/contact.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo5.png</image:loc>
@@ -233,20 +239,20 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/news.html</loc>
-    <lastmod>2021-07-20</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/headshot.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/nels.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/hhmi-logo-color.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/headshot.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/claycarey.jpg</image:loc>
@@ -255,7 +261,22 @@
       <image:loc>http://www.cellvolution.org/images/alesia1.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.cellvolution.org/images/sonresao-v.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/teaganf.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.cellvolution.org/images/evolutionweb.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20198x65.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20233x39.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20155x66.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u4524.png</image:loc>
@@ -268,6 +289,30 @@
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/4513_741116254954_6099025_n-crop-u1768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/diane.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/nels.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/dustin2-crop-u1048.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/kelsey-crop-u1051.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pew.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/video2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/matt2-crop-u1096.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/melissa2-crop-u1101.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/twiv_gm_2013.jpg</image:loc>
@@ -387,25 +432,97 @@
       <image:loc>http://www.cellvolution.org/images/screen%20shot%202018-06-13%20at%2050601%20pm-crop-u6620.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/video2.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/zoeh.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/pew.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20225x116.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/dustin2-crop-u1048.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20348x327.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/kelsey-crop-u1051.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20218x230.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/matt2-crop-u1096.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20210x219.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/diane.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20344x430.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/melissa2-crop-u1101.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20220x217.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20311x191.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20468x349.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20187x189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20184x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20295x179.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20184x157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20165x208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20133x143.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20468x254.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/kristen-davenport.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20280x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20105x105.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20127x121.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20383x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20327x77.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20252x35.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20292x181.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20174x70.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20117x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20170x165.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%2059x43.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%2082x44.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%2050x71.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/pasted%20image%20144x146.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo6.png</image:loc>
@@ -413,56 +530,56 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/nels-elde.html</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/nels.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/ulogo7.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/nce.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/landscape.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/ulogo7.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.cellvolution.org/diane-downhour.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/diane_new.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/ulogo8.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/diane_2021.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/downhourfamphoto.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/ulogo8.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.cellvolution.org/melissa-hartley.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo9.png</image:loc>
@@ -473,14 +590,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/matthew-barber.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/matt_new.jpg</image:loc>
@@ -494,14 +611,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/pathogen-driven-evolution.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/histogram.jpg</image:loc>
@@ -512,14 +629,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/arms-races.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/redqueen.jpg</image:loc>
@@ -530,14 +647,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/molecular-mimicry.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo13.png</image:loc>
@@ -548,14 +665,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/experimental-evolution.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo14.png</image:loc>
@@ -566,14 +683,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/dustin-hancks.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/dusin_new.jpg</image:loc>
@@ -587,14 +704,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/kelsey-rogers.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/kelsey-crop-u1313.jpg</image:loc>
@@ -605,14 +722,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/della-fixsen.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/dellaf_new.jpg</image:loc>
@@ -623,14 +740,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-summer-2013.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/lab2013-crop-u1676.jpg</image:loc>
@@ -641,14 +758,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/ed-chuong.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ed-new.jpg</image:loc>
@@ -662,14 +779,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/clay-carey.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/claycarey.jpg</image:loc>
@@ -683,35 +800,35 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/juliane-cooper.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/smithjuliane1-crop-u2059.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/ulogo21.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/smithjuliane2-crop-u2077.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/smithjuliane2-crop-u2077.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/ulogo21.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-summer-2014.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo22.png</image:loc>
@@ -833,14 +950,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/alesia-mckeown.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/alesia1.jpg</image:loc>
@@ -854,14 +971,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elliot-lee.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/elliot%20picture.jpg</image:loc>
@@ -872,14 +989,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-summer-2015.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo25.png</image:loc>
@@ -890,14 +1007,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-summer-2016.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo26.png</image:loc>
@@ -908,23 +1025,23 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/keir-balla.html</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/headshot.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/ulogo27.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/balla_system_illustration.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/balla_system_illustration.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/ulogo27.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1070,14 +1187,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-summer-2017.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/pasted%20image%201024x768.jpg</image:loc>
@@ -1085,14 +1202,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/michelle-culbertson.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/michellec.jpg</image:loc>
@@ -1106,17 +1223,17 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/zo%C3%AB-hilbert.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/zoeh.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/zoe2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo29.png</image:loc>
@@ -1124,14 +1241,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/stephen-goldstein.html</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/stepheng.jpg</image:loc>
@@ -1142,14 +1259,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/kristen-davenport.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/kristend.jpg</image:loc>
@@ -1160,17 +1277,17 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/mai-tran.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/mait.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/mai_2021.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo32.png</image:loc>
@@ -1178,14 +1295,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-winter-2018.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/axethrowing_2018.jpg</image:loc>
@@ -1193,14 +1310,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-summer-2019.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/jordanelle_2019.jpg</image:loc>
@@ -1208,14 +1325,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/christina-necessary.html</loc>
-    <lastmod>2020-10-06</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/christinan.jpg</image:loc>
@@ -1229,14 +1346,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/erin-cafferty.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/erinc.jpg</image:loc>
@@ -1247,14 +1364,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/sonresa-ochoa-vidales.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/sonresao-v.jpg</image:loc>
@@ -1265,14 +1382,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/ian-boys.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ianb.jpg</image:loc>
@@ -1283,14 +1400,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/hannah-young.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/hannahy.jpg</image:loc>
@@ -1301,14 +1418,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/mara-schwiesow.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/maras.jpg</image:loc>
@@ -1319,14 +1436,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/teagan-feeley.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/teaganf.jpg</image:loc>
@@ -1337,14 +1454,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/patty-lisieski.html</loc>
-    <lastmod>2021-08-23</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/ulogo32.png</image:loc>
@@ -1352,14 +1469,14 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-summer-2021.html</loc>
-    <lastmod>2021-08-24</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/labphoto_jordanelle_2020.jpg</image:loc>
@@ -1367,17 +1484,35 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/elde-lab-spring-2021.html</loc>
-    <lastmod>2021-08-24</lastmod>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.cellvolution.org/images/labphoto_spring2020.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.cellvolution.org/drew-janik.html</loc>
+    <lastmod>2021-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/accordioncut2-crop-u291.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/accordioncut.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/drewj.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.cellvolution.org/images/ulogo32.png</image:loc>
     </image:image>
   </url>
 </urlset>
