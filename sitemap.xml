@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/people.html</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -126,7 +126,7 @@
       <image:loc>http://www.cellvolution.org/images/maras.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.cellvolution.org/images/teaganf.jpg</image:loc>
+      <image:loc>http://www.cellvolution.org/images/teaganfeeley%20(1).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/peari.jpg</image:loc>
@@ -251,7 +251,7 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/news.html</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -280,9 +280,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/hannahy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.cellvolution.org/images/teaganf.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.cellvolution.org/images/evolutionweb.jpg</image:loc>
@@ -531,6 +528,9 @@
       <image:loc>http://www.cellvolution.org/images/pasted%20image%20170x165.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.cellvolution.org/images/teaganf.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.cellvolution.org/images/pasted%20image%2059x43.png</image:loc>
     </image:image>
     <image:image>
@@ -590,7 +590,7 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/diane-downhour.html</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1517,7 +1517,7 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/teagan-feeley.html</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1583,7 +1583,7 @@
   </url>
   <url>
     <loc>http://www.cellvolution.org/steven-cho.html</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
